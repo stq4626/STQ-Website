@@ -906,8 +906,9 @@
 	8A%D8%B2%D8%A7%D8%AA%20%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%B1%D8%AD%20%D9%88%D8%A7%D9%84%D9%82%D8%A7%D8%B9%D8%A7%D8%A
 " class="wfloat" target="_blank">
 <i class="fa fa-whatsapp my-wfloat"></i> <span><font style="vertical-align: inherit;">
+<i class="fa fa-whatsapp my-wfloat"></i> <span><font style="vertical-align: Left;
 <font style="vertical-align: inherit;">Contact us</font></font></span>
-font style="vertical-align: center;
+
 </a>
     
     <script src="/app/shared/angular.min.1.4.9.js"></script>
