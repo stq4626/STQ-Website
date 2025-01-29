@@ -46,13 +46,13 @@
     }
   
     .apple-text {
-      margin-bottom: 70px;
+      margin-bottom: 50px;
       font-size: 14px;
       background-color: rgb(227, 65, 64);
       color: white;
       text-align: center;
-      padding-top: 18px;
-      padding-bottom: 18px;
+      padding-top: 30px;
+      padding-bottom: 30px;
     }
   
     .span-example {
