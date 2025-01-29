@@ -46,7 +46,7 @@
     }
   
     .apple-text {
-      margin-bottom: 50px;
+      margin-bottom: 70px;
       font-size: 14px;
       background-color: rgb(227, 65, 64);
       color: white;
