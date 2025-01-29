@@ -134,6 +134,12 @@
        cameras, closed 
     circuit television (CCTV), security and 
     safety devices and the security system.!
+	  video-title {
+      font-weight: bold;
+      font-size: 18px;
+      width: 280px;
+      line-height: 24px;
+      margin-bottom: 5px;
       </p>
       
       
