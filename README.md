@@ -136,10 +136,7 @@
     safety devices and the security system.!
       </p>
       
-      > &#62;
-  </p>
-  
-  <p>
+      
     NEW WEBSITE <strong>UNDER</strong>CONTRUCTION <u>New website</u>opening soon. <span class="span-example">Good day!</span>
   </p>
 
