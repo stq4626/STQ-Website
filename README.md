@@ -12,11 +12,7 @@
       margin-bottom: 0;
     }
   
-    .video-stats {
-      font-size: 14px;
-      color: rgb(96, 96, 96);
-      margin-bottom: 20px;
-    }
+    .video-stats { font-size: 14px;color: rgb(96, 96, 96);margin-bottom: 10px; }
   
     .video-title {
       font-weight: bold;
