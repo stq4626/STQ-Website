@@ -1,7 +1,20 @@
   <button>
     Hello
   </button>
+  border: none;
+      height: 36px;
+      width: 74px;
+      border-radius: 8px;
+      border-radius: 18px;
+      font-weight: bold;
+      font-size: 15px;
+      cursor: pointer;
+      margin-left: 8px;
+      transition: box-shadow 0.15s;
+      vertical-align: top;
+    >
   <p>
+	  
     Old Website </p><a href="http://stqgroup.com.sa/" target="blank">Link to stqgroup.com.sa 
   </a>
 
