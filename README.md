@@ -137,7 +137,7 @@
       </p>
       
       
-    NEW WEBSITE <strong>UNDER</strong>CONTRUCTION <u>New website</u>opening soon. <span class="span-example">Good day!</span>
+    NEW WEBSITE <strong> UNDER </strong> CONTRUCTION <u> New website </u> opening soon. <span class="span-example"> Good day! </span>
   </p>
 
 
