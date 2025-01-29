@@ -897,7 +897,7 @@
 }  
 .my-wfloat{
 	    float: none !important;
-    margin: 12px auto auto 20px !important;
+    margin: 12px auto auto 2px !important;
 }
     </style>
 	
@@ -907,6 +907,7 @@
 " class="wfloat" target="_blank">
 <i class="fa fa-whatsapp my-wfloat"></i> <span><font style="vertical-align: inherit;">
 <font style="vertical-align: inherit;">Contact us</font></font></span>
+font style="vertical-align: center;
 </a>
     
     <script src="/app/shared/angular.min.1.4.9.js"></script>
