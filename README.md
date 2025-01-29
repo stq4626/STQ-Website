@@ -897,14 +897,14 @@
 }  
 .my-wfloat{
 	    float: none !important;
-    margin: 12px auto auto 2px !important;
+    margin: 24px auto auto 2px !important;
 }
     </style>
 	
 <a href="https://api.whatsapp.com/send?phone=966555133332&amp;text=%D9%86%D8%B3%D8%B9%D8%AF%20%D8%A8%D8%AA%D9%88%D8%A7%D8%B5%D9%84%D9%83%D9%85%20%D9%85%D8%B9%D9%86%D8%A7%20..
 	%20%D9%85%D8%AC%D9%85%D9%88%D8%B9%D8%A9%20%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D9%82%D8%A7%D9%85%D8%A9%20%D9%84%D8%AA%D8%AC%D9%87%D9%
-	8A%D8%B2%D8%A7%D8%AA%20%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%B1%D8%AD%20%D9%88%D8%A7%D9%84%D9%82%D8%A7%D8%B9%D8%A7%D8%AA
-	" class="wfloat" target="_blank">
+	8A%D8%B2%D8%A7%D8%AA%20%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%B1%D8%AD%20%D9%88%D8%A7%D9%84%D9%82%D8%A7%D8%B9%D8%A7%D8%A
+" class="wfloat" target="_blank">
 <i class="fa fa-whatsapp my-wfloat"></i> <span><font style="vertical-align: inherit;">
 <font style="vertical-align: inherit;">Contact us</font></font></span>
 </a>
