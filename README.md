@@ -181,8 +181,9 @@ Email: info@stqgroup.com.sa. <span class="Shop now"> &#62;
         <div class="container">
             <div class="row">
                 <div class="info-text ng-binding"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
-                    Kingdom of Saudi Arabia Riyadh Branch: Al-Malaz .. Tel: +966549114054 Qassim Branch - Unaizah Governorate - P.O. Box: 1502 - Postal Code: 51911 Tel: +966163645880 Fax: +966163653332 
 
+
+     
                     </font></font><!--<span class="icon icon-phone"></span> {{getSetting("Mobile")}}(966)
                     <span class="separator"></span>
                     <span class="icon icon-envelope"></span> <a href="mailto:{{getSetting("FormEmail")}}">{{getSetting("FormEmail")}}</a>-->
