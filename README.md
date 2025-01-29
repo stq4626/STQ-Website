@@ -42,7 +42,7 @@
       color: rgb(96, 96, 96);
       width: 280px;
       line-height: 22px;
-      margin-bottom: 100px;
+      margin-bottom: 150px;
     }
   
     .apple-text {
@@ -51,8 +51,8 @@
       background-color: rgb(227, 65, 64);
       color: white;
       text-align: center;
-      padding-top: 30px;
-      padding-bottom: 30px;
+      padding-top: 18px;
+      padding-bottom: 18px;
     }
   
     .span-example {
