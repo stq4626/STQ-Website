@@ -40,7 +40,7 @@
     .video-description {
       font-size: 14px;
       color: rgb(96, 96, 96);
-      width: 300px;
+      width: 280px;
       line-height: 22px;
       margin-bottom: 100px;
     }
