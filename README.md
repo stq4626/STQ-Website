@@ -613,9 +613,9 @@ Email: info@stqgroup.com.sa. <span class="Shop now"> &#62;
                         </h3>
 
                     </div>
-                    <div ng-bind-html="getSetting('HomeBlocks2')" class="ng-binding"><div><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">We are the integrity group for implementing, supplying and installing all systems for professional theatrical lighting and audio equipment, conference halls and studios. Supplying and installing all types of chairs, curtains, decorations and insulation for theaters, conference halls and studios. Adding the ability to display 3D movies Dimension Cinema with stereoscopic effects in the image and sound in theaters. Adding a meeting system equipped with Audio Video audio and visual devices. Displaying the results of the secret ballot in seconds. IR Assistive Listening System for conferences works with infrared rays up to 4 languages &ZeroWidthSpace;&ZeroWidthSpace;and their multiples. Using the theater as a training and education hall and raising the level of leadership through smart boards, giant screens, 3D projectors, distinctive audio conferences, and equipping and installing video conference systems. Converting the show in large theaters to a cinematic display system. Making all designs and engineering specifications for all works. There is a team of specialized and highly experienced engineers in this field. Supplying and installing surveillance cameras, closed circuit television (CCTV), security and safety devices and the security system.</font></font></div></div>
-                    <h4><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">To download and view the group profile and previous works, </font></font><a href="/bru/"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">click here.</font></font></a></h4>
-                </div>
+
+
+      
                 <div class="clearfix"></div>
             </div>
             <span id="services" ng-bind-html="getSetting('HomeBlocks3')" class="ng-binding"><div class="row">
