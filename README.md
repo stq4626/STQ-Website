@@ -34,7 +34,7 @@
     .video-author {
       font-size: 14px;
       color: rgb(96, 96, 96);
-      margin-bottom: 20px;
+      margin-bottom: 70px;
     }
   
     .video-description {
@@ -134,13 +134,7 @@
        cameras, closed 
     circuit television (CCTV), security and 
     safety devices and the security system.!
-	  video-title {
-      font-weight: bold;
-      font-size: 18px;
-      width: 280px;
-      line-height: 24px;
-      margin-bottom: 5px;
-      </p>
+  </p>
       
       
     NEW WEBSITE <strong> UNDER </strong> CONTRUCTION <u> New website </u> opening soon. <span class="span-example"> Good day! </span>
