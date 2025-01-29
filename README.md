@@ -897,7 +897,7 @@
 }  
 .my-wfloat{
 	    float: none !important;
-    margin: 24px auto auto 2px !important;
+    margin: 12px auto auto 20px !important;
 }
     </style>
 	
