@@ -606,8 +606,9 @@ Email: info@stqgroup.com.sa. <span class="Shop now"> &#62;
                         <iframe src="http://www.youtube.com/embed/_NEMiZWT-70?rel=0" width="340" height="190" frameborder="0"></iframe>
                     </div>
                     <div>
-                        <h3><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
-                            Welcome..
+                        <h3><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">..
+
+   
                              </font></font><small style="font-size: 14px;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
 			     
 	
