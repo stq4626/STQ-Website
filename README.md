@@ -608,7 +608,10 @@ Email: info@stqgroup.com.sa. <span class="Shop now"> &#62;
                     <div>
                         <h3><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
                             Welcome..
-                             </font></font><small style="font-size: 14px;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Al-Istiqama Group welcomes you to its official website</font></font></small>
+                             </font></font><small style="font-size: 14px;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+			     
+	
+ </font></font></small>
                             <br><br>
                         </h3>
 
