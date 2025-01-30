@@ -1102,23 +1102,9 @@ Email: info@stqgroup.com.sa. <span class="Shop now"> &#62;
   .shop-link:hover {
     text-decoration: underline;
   }
-</style>
 
-</head><body><p class="video-title">
-  Talking Tech and AI with Google CEO Sundar Pichai!
-</p>
 
-<p class="video-stats">
-  3.4M views · 6 months ago
-</p>
 
-<p class="video-author">
-  Marques Brownlee ✓
-</p>
-
-<p class="video-description">
-  Talking tech and AI on the heels of Google I/O. Also a daily driver phone reveal from Google's CEO. Shoutout to Sundar!
-</p>
 
 <p class="apple-text">
   Shop early for the best selection of holiday favourites. <span class="shop-link">Shop now &gt;</span>
@@ -1140,11 +1126,5 @@ Email: info@stqgroup.com.sa. <span class="Shop now"> &#62;
   <link rel="stylesheet" href="styles/text.css">
 
 
-  <p class="video-title">
-    Talking Tech and AI with Google CEO Sundar Pichai!
-  </p>
-
-  <p class="video-stats">
-    3.4M views · 6 months ago
-  </p>
+ 
   
