@@ -194,7 +194,7 @@ Email: info@stqgroup.com.sa. <span class="Shop now"> &#62;
                         <a class="social-icon sb-icon-twitter" href="https://twitter.com/stqgroup"></a>
                         <a class="social-icon sb-icon-youtube" href="https://youtu.be/3QArAxmiR6k?si=gzr7HM5A5NVAGggb"></a>
                         <!--<a class="social-icon sb-icon-dribbble" href="#"></a>
-                        <a class="social-icon sb-icon-linkedin" href="<img alt=" class="yt-core-image yt-core-image--fill-parent-height yt-core-image--fill-parent-width yt-core-image--content-mode-scale-aspect-fill yt-core-image--loaded" style="background-color: transparent;" src="https://i.ytimg.com/vi/3QArAxmiR6k/hqdefault.jpg?sqp=-oaymwFBCNACELwBSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AH-CYAC0AWKAgwIABABGGUgYShUMA8=&amp;rs=AOn4CLDrWwXQGqgM_bjit6eZwDeKGvHblw/"></a>
+                        <a class="social-icon sb-icon-linkedin" href="#"></a>
                         <a class="social-icon sb-icon-flickr" href="#"></a>
                     </div>
                    </div> 
