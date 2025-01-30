@@ -1042,163 +1042,109 @@ Email: info@stqgroup.com.sa. <span class="Shop now"> &#62;
     </script>
 
 
-<div class="clock">
-	<span class="clock__digit">0</span>
-	<span class="clock__digit">0</span>
-	<span class="clock__digit">:</span>
-	<span class="clock__digit">0</span>
-	<span class="clock__digit">0</span>
-	<span class="clock__digit">:</span>
-	<span class="clock__digit">0</span>
-	<span class="clock__digit">0</span>
-</div>
-* {
-	border: 0;
-	box-sizing: border-box;
-	margin: 0;
-	padding: 0;
-}
-:root {
-	--hue: 223;
-	--bg: hsl(var(--hue),10%,90%);
-	--fg: hsl(var(--hue),10%,10%);
-	--primary: hsl(var(--hue),90%,55%);
-	--shadow: hsl(var(--hue),90%,35%);
-	font-size: calc(20px + (40 - 20) * (100vw - 320px) / (1280 - 320));
-}
-body {
-	background: var(--bg);
-	color: var(--fg);
-	font: 1em/1.5 Spartan, sans-serif;
-	height: 100vh;
-	display: grid;
-	place-items: center;
-}
-.clock {
-	background-color: var(--primary);
-	background-image: linear-gradient(-45deg,hsla(var(--hue),10%,10%,0),hsla(var(--hue),10%,10%,0.2));
-	border-radius: 0.25rem;
-	box-shadow: 0 0 0 0.1rem hsla(var(--hue),10%,10%,0.2) inset;
-	color: hsl(var(--hue),10%,100%);
-	display: flex;
-	justify-content: center;
-	font-size: 2em;
-	line-height: 1;
-	padding: 0.25rem 0.5rem;
-}
-.clock__digit {
-	display: inline-block;
-	font-weight: bold;
-	text-align: center;
-	text-shadow:
-		0 0 0 var(--shadow),
-		0 0 0 var(--shadow),
-		1px 1px 0 var(--shadow),
-		2px 2px 0 var(--shadow),
-		3px 3px 0 var(--shadow),
-		3px 3px 0 var(--shadow),
-		4px 4px 0 var(--shadow);
-	width: 1ch;
-}
-.clock__digit:not(:nth-child(3n)) {
-	margin-top: 0.25rem;
-}
-.clock__digit--bounce {
-	animation: bounce 0.5s ease-in;
-}
+<html><head><style>
+  p {
+    font-family: Arial;
+    margin-top: 0;
+    margin-bottom: 0;
+  }
 
-/* Dark theme */
-@media (prefers-color-scheme: dark) {
-	:root {
-		--bg: hsl(var(--hue),10%,10%);
-		--fg: hsl(var(--hue),10%,90%);
-	}
-}
+  .video-stats {
+    font-size: 14px;
+    color: rgb(96, 96, 96);
+    margin-bottom: 20px;
+  }
 
-/* Animations */
-@keyframes bounce {
-	from, to {
-		animation-timing-function: ease-in;
-		text-shadow:
-			0 0 0 var(--shadow),
-			0 0 0 var(--shadow),
-			1px 1px 0 var(--shadow),
-			2px 2px 0 var(--shadow),
-			3px 3px 0 var(--shadow),
-			3px 3px 0 var(--shadow),
-			4px 4px 0 var(--shadow);
-		transform: translate(0,0);
-	}
-	33% {
-		animation-timing-function: ease-out;
-		text-shadow:
-			0 0 0 var(--shadow),
-			0 0 0 var(--shadow),
-			0 0 0 var(--shadow),
-			0 0 0 var(--shadow),
-			0 0 0 var(--shadow),
-			1px 1px 0 var(--shadow);
-		transform: translate(4px,4px);
-	}
-	67% {
-		animation-timing-function: ease-in;
-		text-shadow:
-			1px 1px 0 var(--shadow),
-			2px 2px 0 var(--shadow),
-			3px 3px 0 var(--shadow),
-			4px 4px 0 var(--shadow),
-			5px 5px 0 var(--shadow),
-			6px 6px 0 var(--shadow);
-		transform: translate(-2px,-2px);
-	}
-}
+  .video-title {
+    font-weight: bold;
+    font-size: 18px;
+    width: 280px;
+    line-height: 24px;
+    margin-bottom: 5px;
+  }
 
-window.addEventListener("DOMContentLoaded",() => {
-	const clock = new BouncyEmbossedClock(".clock");
-});
+  .video-author {
+    font-size: 14px;
+    color: rgb(96, 96, 96);
+    margin-bottom: 20px;
+  }
 
-class BouncyEmbossedClock {
-	constructor(el) {
-		this.el = document.querySelector(el);
-		this.els = this.el ? this.el.querySelectorAll(".clock__digit") : [];
-		this.digits = [];
-		this.to = null;
-		this.dto = [
-			[null,null,null],
-			[null,null,null],
-			[null,null],
-			[null,null,null],
-			[null,null,null],
-			[null,null],
-			[null,null,null],
-			[null,null,null],
-		];
-		this.staticUpdate();
-		this.update();
-	}
-	getTime() {
-		const time = new Date();
-		const hms = [
-			time.getHours(),
-			time.getMinutes(),
-			time.getSeconds()
-		];
+  .video-description {
+    font-size: 14px;
+    color: rgb(96, 96, 96);
+    width: 280px;
+    line-height: 22px;
+    margin-bottom: 100px;
+  }
 
-		return hms.map(u => u < 10 ? `0${u}` : `${u}`).join(":").split("");	
-	}
-	staticUpdate() {
-		if (this.els) {
-			this.digits = this.getTime();
-			this.digits.forEach((d,i) => {
-				this.els[i].textContent = d;
-			});
-		}
-	}
-	
+  .apple-text {
+    margin-bottom: 50px;
+    font-size: 14px;
+    background-color: rgb(227, 65, 64);
+    color: white;
+    text-align: center;
+    padding-top: 18px;
+    padding-bottom: 18px;
+  }
+
+  .span-example {
+    color: red;
+  }
+
+  .span-example:hover {
+    text-decoration: underline;
+  }
+
+  .shop-link {
+    cursor: pointer;
+  }
+
+  .shop-link:hover {
+    text-decoration: underline;
+  }
+</style>
+
+</head><body><p class="video-title">
+  Talking Tech and AI with Google CEO Sundar Pichai!
+</p>
+
+<p class="video-stats">
+  3.4M views · 6 months ago
+</p>
+
+<p class="video-author">
+  Marques Brownlee ✓
+</p>
+
+<p class="video-description">
+  Talking tech and AI on the heels of Google I/O. Also a daily driver phone reveal from Google's CEO. Shoutout to Sundar!
+</p>
+
+<p class="apple-text">
+  Shop early for the best selection of holiday favourites. <span class="shop-link">Shop now &gt;</span>
+</p>
+
+<p>
+  Shop early for the <strong>best selection</strong> of <u>holiday</u> favourites. <span class="span-example">Shop now</span>
+</p>
 
 
 
 
+  <title>Text Practice</title>
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&amp;display=swap" rel="stylesheet">
+
+  <link rel="stylesheet" href="styles/text.css">
 
 
+  <p class="video-title">
+    Talking Tech and AI with Google CEO Sundar Pichai!
+  </p>
 
+  <p class="video-stats">
+    3.4M views · 6 months ago
+  </p>
+  
