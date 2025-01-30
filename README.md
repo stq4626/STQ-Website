@@ -1,35 +1,3 @@
-<header>
-  <h1>Welcome to Al-Istiqama Group</h1> 
-  <h1>welcome you to its official website</h1>
-
-</header>
-
-<section>
-  
-<h2>STQ Group.. The Straightforward Group</h2>
-<p>    
-    We are the Esteqama Group for implementing, supplying
-and installing all systems for professional theatrical lighting and audio equipment, conference halls and studios. Supplying and installing all types of chairs, curtains, decorations and insulation for theaters, conference halls and studios. Adding the ability to display 3D movies Dimension Cinema with stereoscopic effects in the image and sound in theaters. Adding a meeting system equipped with Audio Video audio and visual devices. Displaying the results of the secret ballot in seconds. IR Assistive Listening System for conferences works with infrared rays up to 4 languages ​​and their multiples. Using the theater as a training and education hall and raising the level of leadership through smart boards, giant screens, 3D projectors, distinctive audio conferences, and equipping and installing video conference systems. Converting the show in large theaters to a cinematic display system. Making all designs and engineering specifications for all works. There is a team of specialized and highly experienced engineers in this field. Supplying and installing surveillance cameras, closed circuit television (CCTV), security and safety devices and the security system.
-  </p>
-  
-</section>
-
-<footer>
-<p>&copy;All rights reserved - Al-Istiqama for Theater and Hall Equipment.
- 
-  To contact us:
-Al-Istiqama Group for Theater and Hall Equipment
-
-Kingdom of Saudi Arabia
-Qassim - Unaizah - P.O. Box: 1502 - Postal Code: 51911
-Phone: +966163645880
-Fax: +966163653332
-Email: info@stqgroup.com.sa
-    
-
-  
-  
-  
   <button>
     Hello
   </button>     
