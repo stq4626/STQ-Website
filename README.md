@@ -3,7 +3,7 @@
   </button>     
   <p>
 	  
- Old Website:</p><a href="http://stqgroup.com.sa/" target="blank">Link to stqgroup.com.sa 
+ Old Website:</p><a href="--------------------/" target="blank">Link to stqgroup.com.sa 
   </a>
 
   <style>
@@ -65,7 +65,7 @@
   </style>
   
   <p class="video-title">
-    Welcome to Al-Istiqama Group
+    Welcome to--------------- Group
     welcome you to its Official website,
     New Website SOON!
   </p>
@@ -73,7 +73,7 @@
   <p class="video-stats">
     3.4M views &#183; 1 months ago
   </p>
-  STQ Group.. The Straightforward Group&#10003;
+  ----------------------- Group&#10003;
   
   <p class="video-author">
      
@@ -83,7 +83,7 @@
   <p class="video-description">
     
   
-  <p class="apple-text">We are the Esteqama Group for implementing, supplying and installing all systems for professional theatrical lighting and audio equipment, 
+  <p class="apple-text">We are the ----------------- for implementing, supplying and installing all systems for professional theatrical lighting and audio equipment, 
     conference halls and studios.Supplying and installing all types of chairs, curtains,decorations and insulation for theaters, conference halls and studios. Adding the 
     ability to display 3D movies Dimension Cinema with stereoscopic effects in the image and sound in theaters. Adding a meeting system equipped with Audio Video audio 
    and visual devices. Displaying the results of the secret ballot in seconds.IR Assistive Listening System for conferences works with infrared rays up to 4 languages
@@ -112,7 +112,7 @@
     <meta name="og:description" content="مجموعة الاستقامة - تجهيز المسارح وتنفيذ وتوريد وتركيب أنظمة وأجهزة الإضاءة والصوتيات الاحترافية وجميع أنواع الكراسي والستائر والديكورات والعزل الصوتي للمسارح وقاعات المؤتمرات والإستديوهات .. إضافة إمكانية عرض الأفلام ثلاثية الأبعاد Dimension Cinema ذات التأثيرات المجسمة في الصورة والصوت في المسارح إضافة نظام الاجتماعات المزودة بالأجهزة Audio Video صوتي ومرئي . عرض نتائج اللإقتراع السري في ثواني . نظام الترجمة الفورية للمؤتمرات IR Assistive Listening System تعمل بالأشعة الحمراء حتى 4 لغات ومضاعفاتها . استخدام المسرح كقاعة تدريب وتعليم ورفع مستوى القيادات من خلال السبورة الذكية والشاشات العملاقة وأجهزة العرض 3D والمؤتمرات الصوتية المميزة و تجهيز وتركيب أنظمة المؤتمرات المرئية الVideo Conference. تحويل العرض في المسارح الكبيرة إلى نظام عرض سينمائي . عمل جميع التصاميم والمواصفات الهندسية لجميع الأعمال ويوجد فريق من المهندسين المتخصصين وذوى الخبرة الكبيرة بهذا المجال . توريد وتركيب كاميرات المراقبة والدوائر التلفزيونية المغلقة (C.C.T.V) وأجهزة الأمن والسلامة ونظام السيكورتى. ">
     <meta name="og:url" content="http://stqgroup.com.sa/">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="og:image" content="http://stqgroup.com.sa/uploads/General/stq.png">
+    <meta name="og:image" content="-----------------/uploads/General/stq.png">
     <meta name="msvalidate.01" content="40853A79A76709B151DD2AAB5C5A0E32">
 <link type="text/css" rel="stylesheet" charset="UTF-8" href="https://www.gstatic.com/_/translate_http/_/ss/k=translate_http.tr.26tY-h6gH9w.L.W.O/am=BgM/d=0/rs=AN8SPfowrRiAotkQD9r4k3ANeQYGsCLZ7g/m=el_main_css"></head>
 <body>
@@ -769,14 +769,14 @@
                         <strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Al-Istiqama Group for Theater and Hall Equipment</font></font></strong>
                         <br><br>
                         <span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Kingdom of Saudi Arabia</font></font></span>
-                        <!--<span>الرياض: الملز .. هاتف: 966549114052+</span>
+                        <!--<span>الرياض: المل------------------+</span>
                 <br />-->
                         <span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
-                            Qassim - Unaizah - P.O. Box: 1502 - Postal Code: 51911
+                            Qassim - Unaizah------------------------.
                         </font></font></span>
-                        <span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Phone: +966163645880</font></font></span>
-                        <span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Fax: +966163653332</font></font></span>
-                        <span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Email: </font></font><a href="mailto:info@stqgroup.com.sa"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">info@stqgroup.com.sa</font></font></a></span>
+                        <span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Phone: +------------</font></font></span>
+                        <span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Fax: +-------------</font></font></span>
+                        <span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Email: </font></font><a href="------------"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">info@stqgroup.com.sa</font></font></a></span>
                     </address>
                 </div>
             </div>
@@ -858,7 +858,7 @@
 }
     </style>
 	
-<a href="https://api.whatsapp.com/send?phone=966555133332&amp;text=%D9%86%D8%B3%D8%B9%D8%AF%20%D8%A8%D8%AA%D9%88%D8%A7%D8%B5%D9%84%D9%83%D9%85%20%D9%85%D8%B9%D9%86%D8%A7%20..
+<a href="https://api.whatsapp.com/send?phone=+00639397713951&amp;text=%D9%86%D8%B3%D8%B9%D8%AF%20%D8%A8%D8%AA%D9%88%D8%A7%D8%B5%D9%84%D9%83%D9%85%20%D9%85%D8%B9%D9%86%D8%A7%20..
 	%20%D9%85%D8%AC%D9%85%D9%88%D8%B9%D8%A9%20%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D9%82%D8%A7%D9%85%D8%A9%20%D9%84%D8%AA%D8%AC%D9%87%D9%
 	8A%D8%B2%D8%A7%D8%AA%20%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%B1%D8%AD%20%D9%88%D8%A7%D9%84%D9%82%D8%A7%D8%B9%D8%A7%D8%A
 " class="wfloat" target="_blank">
