@@ -197,8 +197,7 @@ Email: info@stqgroup.com.sa. <span class="Shop now"> &#62;
                         <a class="social-icon sb-icon-linkedin" href="#"></a>-->
                         <a class="social-icon sb-icon-flickr" href="#"></a>
                     </div>
-                   </div> style="float: left; margin: 0px 36px 40px; width: 390px; height: 230px; padding: 20px 25px; box-shadow: 0px 5px 10px 0px #d4d4d4; border: 1px solid #d9d9d9;background: #fff;">
-                        <iframe src="http://www.youtube.com/embed/_NEMiZWT-70?rel=0" width="340" height="190" frameborder="0"></iframe>
+                   </div> 
                     </div>
                     </div>
             </div>
