@@ -850,7 +850,7 @@ Email: info@stqgroup.com.sa. <span class="Shop now"> &#62;
                             <li><a href="#services"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Our services</font></font></a></li>
                             <li><a href="http://stqgroup.com.sa/9/"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Our projects</font></font></a></li>
                             <li><a href="/10/4"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Our news</font></font></a></li>
-                            <li><a href="/pages/اتصل-بنا"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Contact us</font></font></a></li>
+                            <li><a href="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Contact us</font></font></a></li>
                         </ul>
                     </nav>
                 </div>
