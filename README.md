@@ -192,12 +192,14 @@ Email: info@stqgroup.com.sa. <span class="Shop now"> &#62;
                     <div class="social-icons">
                         <a class="social-icon sb-icon-facebook" href="https://www.facebook.com/stqgroup/"></a>
                         <a class="social-icon sb-icon-twitter" href="https://twitter.com/stqgroup"></a>
-                        <a class="social-icon sb-icon-youtube" href="https://youtu.be/_NEMiZWT-70"></a>
+                        <a class="social-icon sb-icon-youtube" href="https://youtu.be/3QArAxmiR6k?si=1PffG6cKJXes5WjT"></a>
                         <!--<a class="social-icon sb-icon-dribbble" href="#"></a>
                         <a class="social-icon sb-icon-linkedin" href="#"></a>-->
                         <a class="social-icon sb-icon-flickr" href="#"></a>
                     </div>
-                </div>
+                   </div style="float: left; margin: 0px 36px 40px; width: 390px; height: 230px; padding: 20px 25px; box-shadow: 0px 5px 10px 0px #d4d4d4; border: 1px solid #d9d9d9;background: #fff;">
+                        <iframe src="https://youtu.be/3QArAxmiR6k?si=1PffG6cKJXes5WjT" width="340" height="190" frameborder="0"></iframe>
+                    </div>
             </div>
         </div>
     </div>
