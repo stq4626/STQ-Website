@@ -1042,6 +1042,18 @@ Email: info@stqgroup.com.sa. <span class="Shop now"> &#62;
     </script>
 
 
+<div class="clock">
+	<span class="clock__digit">0</span>
+	<span class="clock__digit">0</span>
+	<span class="clock__digit">:</span>
+	<span class="clock__digit">0</span>
+	<span class="clock__digit">0</span>
+	<span class="clock__digit">:</span>
+	<span class="clock__digit">0</span>
+	<span class="clock__digit">0</span>
+</div>
+
+
 
 
 
