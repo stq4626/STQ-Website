@@ -848,7 +848,7 @@ Email: info@stqgroup.com.sa. <span class="Shop now"> &#62;
                             <li><a href="/"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Home</font></font></a></li>
                             <li><a href="#welcome"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Who we are</font></font></a></li>
                             <li><a href="#services"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Our services</font></font></a></li>
-                            <li><a href="/9"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Our projects</font></font></a></li>
+                            <li><a href="http://stqgroup.com.sa/9/"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Our projects</font></font></a></li>
                             <li><a href="/10/4"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Our news</font></font></a></li>
                             <li><a href="/pages/اتصل-بنا"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Contact us</font></font></a></li>
                         </ul>
@@ -911,7 +911,8 @@ Email: info@stqgroup.com.sa. <span class="Shop now"> &#62;
 }
     </style>
 	
-<a href="https://api.whatsapp.com/send?phone=00639397713951&amp;text=%D9%86%D8%B3%D8%B9%D8%AF%20%D8%A8%D8%AA%D9%88%D8%A7%D8%B5%D9%84%D9%83%D9%85%20%D9%85%D8%B9%D9%86%D8%A7%20..
+<a href="https://api.whatsapp.com/send?phone=00639397713951&amp;text=%D9%86%D8%B3%D8%B9%D8%AF%20%D8%A8%D8%AA%D9%88%D8%A7%D8%B
+	5%D9%84%D9%83%D9%85%20%D9%85%D8%B9%D9%86%D8%A7%20..
 	%20%D9%85%D8%AC%D9%85%D9%88%D8%B9%D8%A9%20%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D9%82%D8%A7%D9%85%D8%A9%20%D9%84%D8%AA%D8%AC%D9%87%D9%
 	8A%D8%B2%D8%A7%D8%AA%20%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%B1%D8%AD%20%D9%88%D8%A7%D9%84%D9%82%D8%A7%D8%B9%D8%A7%D8%A
 " class="wfloat" target="_blank">
@@ -1042,89 +1043,3 @@ Email: info@stqgroup.com.sa. <span class="Shop now"> &#62;
     </script>
 
 
-<html><head><style>
-  p {
-    font-family: Arial;
-    margin-top: 0;
-    margin-bottom: 0;
-  }
-
-  .video-stats {
-    font-size: 14px;
-    color: rgb(96, 96, 96);
-    margin-bottom: 20px;
-  }
-
-  .video-title {
-    font-weight: bold;
-    font-size: 18px;
-    width: 280px;
-    line-height: 24px;
-    margin-bottom: 5px;
-  }
-
-  .video-author {
-    font-size: 14px;
-    color: rgb(96, 96, 96);
-    margin-bottom: 20px;
-  }
-
-  .video-description {
-    font-size: 14px;
-    color: rgb(96, 96, 96);
-    width: 280px;
-    line-height: 22px;
-    margin-bottom: 100px;
-  }
-
-  .apple-text {
-    margin-bottom: 50px;
-    font-size: 14px;
-    background-color: rgb(227, 65, 64);
-    color: white;
-    text-align: center;
-    padding-top: 18px;
-    padding-bottom: 18px;
-  }
-
-  .span-example {
-    color: red;
-  }
-
-  .span-example:hover {
-    text-decoration: underline;
-  }
-
-  .shop-link {
-    cursor: pointer;
-  }
-
-  .shop-link:hover {
-    text-decoration: underline;
-  }
-
-
-
-
-<p class="apple-text">
-  Shop early for the best selection of holiday favourites. <span class="shop-link">Shop now &gt;</span>
-</p>
-
-<p>
-  Shop early for the <strong>best selection</strong> of <u>holiday</u> favourites. <span class="span-example">Shop now</span>
-</p>
-
-
-
-
-  <title>Text Practice</title>
-
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
-  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&amp;display=swap" rel="stylesheet">
-
-  <link rel="stylesheet" href="styles/text.css">
-
-
- 
-  
