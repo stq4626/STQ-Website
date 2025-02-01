@@ -191,14 +191,12 @@ Email: info@stqgroup.com.sa. <span class="Shop now"> &#62;
                     <div class="social-icons">
                         <a class="social-icon sb-icon-facebook" href="https://www.facebook.com/stqgroup/"></a>
                         <a class="social-icon sb-icon-twitter" href="https://twitter.com/stqgroup"></a>
-                        <a class="social-icon sb-icon-youtube" href="https://youtu.be/3QArAxmiR6k?si=gzr7HM5A5NVAGggb"></a>
+                        <a class="social-icon sb-icon-youtube" href="https://www.youtube.com/channel/UCOYyU5beBP_ncEhhT7kQw3w"></a>
                         <!--<a class="social-icon sb-icon-dribbble" href="#"></a>
-                        <a class="social-icon sb-icon-linkedin" href="#"></a>
+                        <a class="social-icon sb-icon-linkedin" href="#"></a>-->
                         <a class="social-icon sb-icon-flickr" href="#"></a>
                     </div>
-                   </div> 
-                    </div>
-                    </div>
+                </div>
             </div>
         </div>
     </div>
@@ -217,44 +215,7 @@ Email: info@stqgroup.com.sa. <span class="Shop now"> &#62;
               <span class="icon-home"></span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">  Home             </font></font></a>
             
         </li>
-        <li class="">
-            <a href="/#welcome">
-              <span class="icon-info"></span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">  About us             </font></font></a>
-                        <ul class="dropdown-menu">
-            
-        <li class="">
-            <a href="/pages/كلمة-المدير-العام"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
-                Director General's speech             </font></font></a>
-            
-        </li>
-        <li class="">
-            <a href="/pages/نشأة-المجموعة"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
-                The origin of the group             </font></font></a>
-            
-        </li>
-        <li class="">
-            <a href="/pages/الرؤية-والرسالة"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
-                Vision and Mission             </font></font></a>
-            
-        </li>
-        <li class="">
-            <a href="/pages/أنشطة المجموعة"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
-                Group activities             </font></font></a>
-            
-        </li>
-        <li class="">
-            <a href="/pages/طلب مشروع"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
-                Project request             </font></font></a>
-            
-        </li>
-            </ul>
 
-        </li>
-        <li class="">
-            <a href="/#services">
-              <span class="icon-list"></span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">  Services and Activities             </font></font></a>
-                        <ul class="dropdown-menu">
-            
         <li class="">
             <a href="/pages/تجهيزات-المسارح"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
                 Theater equipment             </font></font></a>
