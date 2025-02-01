@@ -602,7 +602,10 @@ Email: info@stqgroup.com.sa. <span class="Shop now"> &#62;
 
             <div class="welcome">
                 <div class="row welcm-left">
-                    <div style="float: left; margin: 0px 36px 40px; width: 390px; height: 230px; padding: 20px 25px; box-shadow: 0px 5px 10px 0px #d4d4d4; border: 1px solid #d9d9d9;background: #fff;">
+		
+                    <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/3QArAxmiR6k?si=PtJ709WPeoxGtLd6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard- 
+                      write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+		      
                         <iframe src="http://www.youtube.com/embed/_NEMiZWT-70?rel=0" width="340" height="190" frameborder="0"></iframe>
                     </div>
                     <div>
