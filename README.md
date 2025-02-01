@@ -5,7 +5,10 @@
   <button>
     Hello
   </button>
+  <div> class="wrapper">
+ <h1> front page</h1> 
 <img src="Screenshot2025-02-01132405.png" alt="">
+
   <a href="http://stqgroup.com.sa/" target="blank">
     Link to stqgroup.com.sa 
   </a>
