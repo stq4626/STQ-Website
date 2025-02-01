@@ -610,8 +610,8 @@ Email: info@stqgroup.com.sa. <span class="Shop now"> &#62;
                       write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 		      
                         <iframe src="http://www.youtube.com/embed/_NEMiZWT-70?rel=0" width="340" height="190" frameborder="0"></iframe>
-                    </div>
-                    <div>
+                    
+                    
                         <h3><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">..
 
    
