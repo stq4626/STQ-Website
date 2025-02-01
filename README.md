@@ -191,6 +191,11 @@ Email: info@stqgroup.com.sa. <span class="Shop now"> &#62;
                     <div class="social-icons">
                         <a class="social-icon sb-icon-facebook" href="https://www.facebook.com/stqgroup/"></a>
                         <a class="social-icon sb-icon-twitter" href="https://twitter.com/stqgroup"></a>
+
+                        Theater chairs             </font></font></a>
+		
+                        <ul class="dropdown-menu">
+			
                         <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/3QArAxmiR6k?si=RXqsOcogmlkc3aSR" title="YouTube 
 			video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
                          referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>            
@@ -207,11 +212,10 @@ Email: info@stqgroup.com.sa. <span class="Shop now"> &#62;
         <div id="logo">
             <div class="inner">
                 <a href="/">
-                    		    
-		    <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/6ar3kqoESfo?si=rYnvXBwsVm9H_qk7" 
-                         title="YouTube video player" frameborder="0" 
-                         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-                </a>
+                    	<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/_NEMiZWT-70?si=m4YBjMeARBfxgm-N" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; 
+                         clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>	    
+		                    
+		      </a>
             </div>
         </div>
         <!-- mainmenu begin -->
@@ -229,9 +233,7 @@ Email: info@stqgroup.com.sa. <span class="Shop now"> &#62;
         </li>
         <li class="">
             <a href="/pages/الكراسي"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
-                Theater chairs             </font></font></a>
-		
-                        <ul class="dropdown-menu">
+                
             
         <li class="">
             <a href="http://seats.stqgroup.com.sa/CatPage/MyCatPage?cat=turkey1" target="_blank"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
