@@ -192,119 +192,12 @@ Email: info@stqgroup.com.sa. <span class="Shop now"> &#62;
                         <a class="social-icon sb-icon-facebook" href="https://www.facebook.com/stqgroup/"></a>
                         <a class="social-icon sb-icon-twitter" href="https://twitter.com/stqgroup"></a>
 
-                        Theater chairs             </font></font></a>
-		
-                        <ul class="dropdown-menu">
-			
                         <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/3QArAxmiR6k?si=RXqsOcogmlkc3aSR" title="YouTube 
 			video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
                          referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>            
                          
-                              <!--<a class="social-icon sb-icon-dribbble" href="#"></a>
-                        <a class="social-icon sb-icon-linkedin" href="#"></a>-->
-                        <a class="social-icon sb-icon-flickr" href="#"></a>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <div class="container">
-        <div id="logo">
-            <div class="inner">
-                <a href="/">
-                    	<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/_NEMiZWT-70?si=m4YBjMeARBfxgm-N" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; 
-                         clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>	    
-		                    
-		      </a>
-            </div>
-        </div>
-        <!-- mainmenu begin -->
-        <ul id="mainmenu">
-            <mainmenu class="ng-isolate-scope">        <li class="">
-            <a href="/">
-              <span class="icon-home"></span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">  Home             </font></font></a>
-            
-        </li>
-
-        <li class="">
-            <a href="/pages/تجهيزات-المسارح"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
-                Theater equipment             </font></font></a>
-            
-        </li>
-        <li class="">
-            <a href="/pages/الكراسي"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
-                
-            
-        <li class="">
-            <a href="http://seats.stqgroup.com.sa/CatPage/MyCatPage?cat=turkey1" target="_blank"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
-                Chairs Catalog 1             </font></font></a>
-            
-        </li>
-            </ul>
-
-        </li>
-        <li class="">
-            <a href="/pages/القاعات"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
-                Meeting and conference rooms             </font></font></a>
-            
-        </li>
-        <li class="">
-            <a href="/pages/تجهيزات-المؤتمرات"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
-                Conference Equipment             </font></font></a>
-            
-        </li>
-        <li class="">
-            <a href="/pages/الأمن-والسلامة"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
-                Security and Safety             </font></font></a>
-            
-        </li>
-        <li class="">
-            <a href="/pages/الإنتاج-الإعلامي"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
-                Media production             </font></font></a>
-            
-        </li>
-            </ul>
-
-        </li>
-        <li class="">
-            <a href="/9/">
-              <span class="icon-cogs"></span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">  Projects             </font></font></a>
-                        <ul class="dropdown-menu">
-            
-        <li class="">
-            <a href="/9/"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
-                Projects review             </font></font></a>
-            
-        </li>
-        <li class="">
-            <a href="/2/12/"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
-                Project Visuals             </font></font></a>
-            
-        </li>
-        <li class="">
-            <a href="/pages/المشاريع-المنتهية"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
-                List of completed projects             </font></font></a>
-            
-        </li>
-            </ul>
-
-        </li>
-        <li class="">
-            <a href="/10/4">
-              <span class="icon-edit"></span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">  Group News             </font></font></a>
-            
-        </li>
-        <li class="">
-            <a href="/pages/اتصل-بنا">
-              <span class="icon-phone"></span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">  Contact us             </font></font></a>
-            
-        </li>
-
-</mainmenu>
-        </ul>
-        <!-- mainmenu close -->
-
-    </div>
+                        <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/6ar3kqoESfo?si=eeJ2w7SCJQH8eZEi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+			
 </header>
 <!-- header close --></div>
         <!-- ngView:  --><div ng-view="" class="ng-scope"><!-- ngIf: isHome --><div ng-controller="HomeController" ng-if="isHome" class="ng-scope">
