@@ -198,7 +198,7 @@ Email: info@stqgroup.com.sa. <span class="Shop now"> &#62;
 
 
     
-                         }
+                         
                          <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/6ar3kqoESfo?si=rYnvXBwsVm9H_qk7" 
                          title="YouTube video player" frameborder="0" 
                          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
