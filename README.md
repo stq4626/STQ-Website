@@ -191,7 +191,8 @@ Email: info@stqgroup.com.sa. <span class="Shop now"> &#62;
                     <div class="social-icons">
                         <a class="social-icon sb-icon-facebook" href="https://www.facebook.com/stqgroup/"></a>
                         <a class="social-icon sb-icon-twitter" href="https://twitter.com/stqgroup"></a>
-                        <video src="video/stqproducts.mp4" autoplay controls>
+                        <source src="video/stqproducts.mp4" type="video/mp4">
+			your browser does not support mp4 video, chage browser!
                         <!--<a class="social-icon sb-icon-dribbble" href="#"></a>
                         <a class="social-icon sb-icon-linkedin" href="#"></a>-->
                         <a class="social-icon sb-icon-flickr" href="#"></a>
