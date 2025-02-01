@@ -191,21 +191,150 @@ Email: info@stqgroup.com.sa. <span class="Shop now"> &#62;
                     <div class="social-icons">
                         <a class="social-icon sb-icon-facebook" href="https://www.facebook.com/stqgroup/"></a>
                         <a class="social-icon sb-icon-twitter" href="https://twitter.com/stqgroup"></a>
+                        <a class="social-icon sb-icon-youtube" href="https://www.youtube.com/channel/UCOYyU5beBP_ncEhhT7kQw3w"></a>
+                        <!--<a class="social-icon sb-icon-dribbble" href="#"></a>
+                        <a class="social-icon sb-icon-linkedin" href="#"></a>-->
+                        <a class="social-icon sb-icon-flickr" href="#"></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="container">
+        <div id="logo">
+            <div class="inner">
+                <a href="/">
+                    <img src="/images/logo.png" alt="logo">
+                </a>
+            </div>
+        </div>
+        <!-- mainmenu begin -->
+        <ul id="mainmenu">
+            <mainmenu class="ng-isolate-scope">        <li class="">
+            <a href="/">
+              <span class="icon-home"></span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">  Home             </font></font></a>
+            
+        </li>
+        <li class="">
+            <a href="/#welcome">
+              <span class="icon-info"></span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">  About us             </font></font></a>
+                        <ul class="dropdown-menu">
+            
+        <li class="">
+            <a href="/pages/كلمة-المدير-العام"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+                Director General's speech             </font></font></a>
+            
+        </li>
+        <li class="">
+            <a href="/pages/نشأة-المجموعة"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+                The origin of the group             </font></font></a>
+            
+        </li>
+        <li class="">
+            <a href="/pages/الرؤية-والرسالة"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+                Vision and Mission             </font></font></a>
+            
+        </li>
+        <li class="">
+            <a href="/pages/أنشطة المجموعة"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+                Group activities             </font></font></a>
+            
+        </li>
+        <li class="">
+            <a href="/pages/طلب مشروع"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+                Project request             </font></font></a>
+            
+        </li>
+            </ul>
 
-                                                                             
-									     New Website SOON!
+        </li>
+        <li class="">
+            <a href="/#services">
+              <span class="icon-list"></span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">  Services and Activities             </font></font></a>
+                        <ul class="dropdown-menu">
+            
+        <li class="">
+            <a href="/pages/تجهيزات-المسارح"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+                Theater equipment             </font></font></a>
+            
+        </li>
+        <li class="">
+            <a href="/pages/الكراسي"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+                Theater chairs             </font></font></a>
+                        <ul class="dropdown-menu">
+            
+        <li class="">
+            <a href="http://seats.stqgroup.com.sa/CatPage/MyCatPage?cat=turkey1" target="_blank"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+                Chairs Catalog 1             </font></font></a>
+            
+        </li>
+            </ul>
 
-   
-			<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/3QArAxmiR6k?si=RXqsOcogmlkc3aSR" title="YouTube 
-			video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
-                         referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>            
-                         
+        </li>
+        <li class="">
+            <a href="/pages/القاعات"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+                Meeting and conference rooms             </font></font></a>
+            
+        </li>
+        <li class="">
+            <a href="/pages/تجهيزات-المؤتمرات"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+                Conference Equipment             </font></font></a>
+            
+        </li>
+        <li class="">
+            <a href="/pages/الأمن-والسلامة"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+                Security and Safety             </font></font></a>
+            
+        </li>
+        <li class="">
+            <a href="/pages/الإنتاج-الإعلامي"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+                Media production             </font></font></a>
+            
+        </li>
+            </ul>
 
-                        
-                        <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/6ar3kqoESfo?si=eeJ2w7SCJQH8eZEi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        </li>
+        <li class="">
+            <a href="/9/">
+              <span class="icon-cogs"></span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">  Projects             </font></font></a>
+                        <ul class="dropdown-menu">
+            
+        <li class="">
+            <a href="/9/"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+                Projects review             </font></font></a>
+            
+        </li>
+        <li class="">
+            <a href="/2/12/"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+                Project Visuals             </font></font></a>
+            
+        </li>
+        <li class="">
+            <a href="/pages/المشاريع-المنتهية"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+                List of completed projects             </font></font></a>
+            
+        </li>
+            </ul>
 
+        </li>
+        <li class="">
+            <a href="/10/4">
+              <span class="icon-edit"></span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">  Group News             </font></font></a>
+            
+        </li>
+        <li class="">
+            <a href="/pages/اتصل-بنا">
+              <span class="icon-phone"></span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">  Contact us             </font></font></a>
+            
+        </li>
 
-   <!-- header close --></div>
+</mainmenu>
+        </ul>
+        <!-- mainmenu close -->
+
+    </div>
+</header>
+<!-- header close --></div>
         <!-- ngView:  --><div ng-view="" class="ng-scope"><!-- ngIf: isHome --><div ng-controller="HomeController" ng-if="isHome" class="ng-scope">
     <!-- slider -->
     <div class="fullwidthbanner-container" style="overflow: visible;">
@@ -912,7 +1041,3 @@ Email: info@stqgroup.com.sa. <span class="Shop now"> &#62;
     </script>
 
 <div id="goog-gt-tt" class="VIpgJd-yAWNEb-L7lbkb skiptranslate" style="border-radius: 12px; margin: 0 0 0 -23px; padding: 0; font-family: 'Google Sans', Arial, sans-serif;" data-id=""><div id="goog-gt-vt" class="VIpgJd-yAWNEb-hvhgNd"><div class=" VIpgJd-yAWNEb-hvhgNd-l4eHX-i3jM8c"><img src="https://fonts.gstatic.com/s/i/productlogos/translate/v14/24px.svg" width="24" height="24" alt=""></div><div class=" VIpgJd-yAWNEb-hvhgNd-k77Iif-i3jM8c"><div class="VIpgJd-yAWNEb-hvhgNd-IuizWc" dir="ltr">Original text</div><div id="goog-gt-original-text" class="VIpgJd-yAWNEb-nVMfcd-fmcmS VIpgJd-yAWNEb-hvhgNd-axAV1"></div></div><div class="VIpgJd-yAWNEb-hvhgNd-N7Eqid ltr"><div class="VIpgJd-yAWNEb-hvhgNd-N7Eqid-B7I4Od ltr" dir="ltr"><div class="VIpgJd-yAWNEb-hvhgNd-UTujCb">Rate this translation</div><div class="VIpgJd-yAWNEb-hvhgNd-eO9mKe">Your feedback will be used to help improve Google Translate</div></div><div class="VIpgJd-yAWNEb-hvhgNd-xgov5 ltr"><button id="goog-gt-thumbUpButton" type="button" class="VIpgJd-yAWNEb-hvhgNd-bgm6sf" title="Good translation" aria-label="Good translation" aria-pressed="false"><span id="goog-gt-thumbUpIcon"><svg width="24" height="24" viewBox="0 0 24 24" focusable="false" class="VIpgJd-yAWNEb-hvhgNd-THI6Vb NMm5M"><path d="M21 7h-6.31l.95-4.57.03-.32c0-.41-.17-.79-.44-1.06L14.17 0S7.08 6.85 7 7H2v13h16c.83 0 1.54-.5 1.84-1.22l3.02-7.05c.09-.23.14-.47.14-.73V9c0-1.1-.9-2-2-2zM7 18H4V9h3v9zm14-7l-3 7H9V8l4.34-4.34L12 9h9v2z"></path></svg></span><span id="goog-gt-thumbUpIconFilled"><svg width="24" height="24" viewBox="0 0 24 24" focusable="false" class="VIpgJd-yAWNEb-hvhgNd-THI6Vb NMm5M"><path d="M21 7h-6.31l.95-4.57.03-.32c0-.41-.17-.79-.44-1.06L14.17 0S7.08 6.85 7 7v13h11c.83 0 1.54-.5 1.84-1.22l3.02-7.05c.09-.23.14-.47.14-.73V9c0-1.1-.9-2-2-2zM5 7H1v13h4V7z"></path></svg></span></button><button id="goog-gt-thumbDownButton" type="button" class="VIpgJd-yAWNEb-hvhgNd-bgm6sf" title="Poor translation" aria-label="Poor translation" aria-pressed="false"><span id="goog-gt-thumbDownIcon"><svg width="24" height="24" viewBox="0 0 24 24" focusable="false" class="VIpgJd-yAWNEb-hvhgNd-THI6Vb NMm5M"><path d="M3 17h6.31l-.95 4.57-.03.32c0 .41.17.79.44 1.06L9.83 24s7.09-6.85 7.17-7h5V4H6c-.83 0-1.54.5-1.84 1.22l-3.02 7.05c-.09.23-.14.47-.14.73v2c0 1.1.9 2 2 2zM17 6h3v9h-3V6zM3 13l3-7h9v10l-4.34 4.34L12 15H3v-2z"></path></svg></span><span id="goog-gt-thumbDownIconFilled"><svg width="24" height="24" viewBox="0 0 24 24" focusable="false" class="VIpgJd-yAWNEb-hvhgNd-THI6Vb NMm5M"><path d="M3 17h6.31l-.95 4.57-.03.32c0 .41.17.79.44 1.06L9.83 24s7.09-6.85 7.17-7V4H6c-.83 0-1.54.5-1.84 1.22l-3.02 7.05c-.09.23-.14.47-.14.73v2c0 1.1.9 2 2 2zm16 0h4V4h-4v13z"></path></svg></span></button></div></div><div id="goog-gt-votingHiddenPane" class="VIpgJd-yAWNEb-hvhgNd-aXYTce"><form id="goog-gt-votingForm" action="//translate.googleapis.com/translate_voting?client=te_lib" method="post" target="votingFrame" class="VIpgJd-yAWNEb-hvhgNd-aXYTce"><input type="text" name="sl" id="goog-gt-votingInputSrcLang"><input type="text" name="tl" id="goog-gt-votingInputTrgLang"><input type="text" name="query" id="goog-gt-votingInputSrcText"><input type="text" name="gtrans" id="goog-gt-votingInputTrgText"><input type="text" name="vote" id="goog-gt-votingInputVote"></form><iframe name="votingFrame" frameborder="0"></iframe></div></div></div><a href="#" id="toTop" style="display: none;"><span id="toTopHover"></span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">To Top</font></font></a><span id="PING_IFRAME_FORM_DETECTION" style="display: none;"></span></body></html>
-
-			
-
-	
