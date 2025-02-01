@@ -5,10 +5,7 @@
   <button>
     Hello
   </button>
-  <div> class="wrapper">
- <h1> front page</h1> 
-<img src="/uploads/general/images-slider/wide-thetre2.jpg" alt="">
-
+  
   <a href="http://stqgroup.com.sa/" target="blank">
     Link to stqgroup.com.sa 
   </a>
