@@ -198,7 +198,7 @@ Email: info@stqgroup.com.sa. <span class="Shop now"> &#62;
                          
                         <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/6ar3kqoESfo?si=eeJ2w7SCJQH8eZEi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 			
-</header>
+
 <!-- header close --></div>
         <!-- ngView:  --><div ng-view="" class="ng-scope"><!-- ngIf: isHome --><div ng-controller="HomeController" ng-if="isHome" class="ng-scope">
     <!-- slider -->
