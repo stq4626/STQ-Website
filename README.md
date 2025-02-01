@@ -6,8 +6,7 @@
     Hello
   </button>
 
-  <img ng-src="/uploads/general/images-slider/wide-thetre2.jpg" alt="" class="defaultimg" style="height: 306px; width: 832.83px; position: absolute; left: -90px; top: 0px; opacity: 0;" src="/uploads/general/images- 
-   slider/wide-thetre2.jpg">
+  
   
   <a href="http://stqgroup.com.sa/" target="blank">
     Link to stqgroup.com.sa 
@@ -207,7 +206,8 @@ Email: info@stqgroup.com.sa. <span class="Shop now"> &#62;
         <div id="logo">
             <div class="inner">
                 <a href="/">
-                    <img src="/images/logo.png" alt="logo">
+                    <img ng-src="/uploads/general/images-slider/wide-thetre2.jpg" alt="" class="defaultimg" style="height: 306px; width: 832.83px; position: absolute; left: -90px; top: 0px; opacity: 0;" 
+                    src="/uploads/general/images- slider/wide-thetre2.jpg">
                 </a>
             </div>
         </div>
