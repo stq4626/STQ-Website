@@ -193,14 +193,14 @@ Email: info@stqgroup.com.sa. <span class="Shop now"> &#62;
                         <a class="social-icon sb-icon-twitter" href="https://twitter.com/stqgroup"></a>
                         <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/3QArAxmiR6k?si=RXqsOcogmlkc3aSR" title="YouTube 
 			video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
-                         referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                         referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe/iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/6ar3kqoESfo?si=rYnvXBwsVm9H_qk7" 
+                         title="YouTube video player" frameborder="0" 
+                         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 			 videowrapper {
                          position: relative;
 			 left: 150px;
                          }
-			 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/6ar3kqoESfo?si=rYnvXBwsVm9H_qk7" title="YouTube video player" frameborder="0" 
-                         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-			
+			 		
                         <!--<a class="social-icon sb-icon-dribbble" href="#"></a>
                         <a class="social-icon sb-icon-linkedin" href="#"></a>-->
                         <a class="social-icon sb-icon-flickr" href="#"></a>
