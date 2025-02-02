@@ -885,10 +885,10 @@ Email: info@stqgroup.com.sa. <span class="Shop now"> &#62;
         .wow:first-child { visibility: hidden; }
 		.wfloat{
 	position:fixed;
-	width:60px;
-	height:60px;
-	bottom:40px;
-	right:20px;
+	width:80px;
+	height:80px;
+	bottom:60px;
+	right:60px;
 	background-color:#25d366;
 	color:#FFF  !important;
 	border-radius:50px;
