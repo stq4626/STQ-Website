@@ -404,7 +404,7 @@ Email: info@stqgroup.com.sa. <span class="Shop now"> &#62;
                     <nav>
                         <ul>
                             <li><a href="http://stqgroup.com.sa/"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Home</font></font></a></li>
-                            <li><a href="http://stqgroup.com.sa/#welcome/"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Who we 						are</font>http://stqgroup.com.sa/#services</font></a></li>
+                            <li><a href="http://stqgroup.com.sa/"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Who we 						are</font></font></a></li>
                             <li><a href="http://stqgroup.com.sa/#services/"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Our 		 
                                         services</font></font></a></li>
                             <li><a href="http://stqgroup.com.sa/9/"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Our projects</font>					</font></a></li>
