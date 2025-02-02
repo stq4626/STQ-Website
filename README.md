@@ -156,65 +156,6 @@ Email: info@stqgroup.com.sa. <span class="Shop now"> &#62;
 
 
 
-
-
-                    <div class="caption large_text lft tp-caption start" data-x="600" data-y="100" data-speed="300" data-start="1000" data-easing="easeOutBack" style="transform: scale(1, 1) rotate(0deg); opacity: 1; left: 575.625px; top: 96px; visibility: visible;">
-                        <a href="/pages/أرضية-خشبة-المسرح"><img ng-src="/uploads/general/images-slider/s62.png" alt="" src="/uploads/general/images-slider/s62.png" style="width: 168.85px; height: 195.84px;"></a>
-                    </div>
-
-                    <div class="caption large_text lft tp-caption start" data-x="400" data-y="100" data-speed="300" data-start="1100" data-easing="easeOutBack" style="transform: scale(1, 1) rotate(0deg); opacity: 1; left: 383.75px; top: 96px; visibility: visible;">
-                        <a href="/pages/العزل-الصوتي"><img ng-src="/uploads/general/images-slider/s63.png" alt="" src="/uploads/general/images-slider/s63.png" style="width: 168.85px; height: 195.84px;"></a>
-                    </div>
-
-                    <div class="caption large_text lft tp-caption start" data-x="200" data-y="100" data-speed="300" data-start="1200" data-easing="easeOutBack" style="transform: scale(1, 1) rotate(0deg); opacity: 1; left: 191.875px; top: 96px; visibility: visible;">
-                        <a href="/pages/الأسقف-المعلقة"><img ng-src="/uploads/general/images-slider/s64.png" alt="" src="/uploads/general/images-slider/s64.png" style="width: 168.85px; height: 195.84px;"></a>
-                    </div>
-
-                    <div class="caption large_text lft tp-caption start" data-x="0" data-y="100" data-speed="300" data-start="1300" data-easing="easeOutBack" style="transform: scale(1, 1) rotate(0deg); opacity: 1; left: 0px; top: 96px; visibility: visible;">
-                        <a href="/pages/المسارح-المتنقلة"><img ng-src="/uploads/general/images-slider/s65.png" alt="" src="/uploads/general/images-slider/s65.png" style="width: 168.85px; height: 195.84px;"></a>
-                    </div>
-                </li>
-                <li data-transition="fade" data-slotamount="20" data-masterspeed="300" data-thumb="/uploads/general/images-slider/thumbs/thumb1.jpg" style="width: 100%; height: 100%; overflow: hidden; visibility: visible; left: 0px; top: 0px; z-index: 18; opacity: 1;">
-                    <!--  BACKGROUND IMAGE -->
-                    <div class="slotholder"><img ng-src="/uploads/general/images-slider/wide1.jpg" alt="" class="defaultimg" style="height: 432px; width: 1175.76px; position: relative; left: -127.5px; top: 0px; opacity: 0;" src="/uploads/general/images-slider/wide1.jpg"></div>
-
-                    <!-- THE CAPTIONS IN THIS SLIDE -->
-                    <div class="caption large_text lfl tp-caption start" data-x="580" data-y="70" data-speed="450" data-start="400" data-easing="easeOutExpo" style="left: -477px; transform: scale(1, 1) rotate(0deg); opacity: 1; top: 67.1875px; visibility: visible;">
-                        <img ng-src="/uploads/general/images-slider/s1-main.png" alt="" src="/uploads/general/images-slider/s1-main.png" style="width: 417.328px; height: 393.6px;">
-                    </div>
-
-                    <div class="caption large_text lfr tp-caption start" data-x="380" data-y="225" data-speed="850" data-start="650" data-easing="easeOutExpo" style="left: 981px; transform: scale(1, 1) rotate(0deg); opacity: 1; top: 216px; visibility: visible;">
-                        <img ng-src="/uploads/general/images-slider/s1-1.png" alt="" src="/uploads/general/images-slider/s1-1.png" style="width: 143.906px; height: 136.32px;">
-                    </div>
-                    <div class="caption large_text lfr tp-caption start" data-x="230" data-y="270" data-speed="150" data-start="750" data-easing="easeOutExpo" style="left: 981px; transform: scale(1, 1) rotate(0deg); opacity: 1; top: 259.188px; visibility: visible;">
-                        <img ng-src="/uploads/general/images-slider/s1-2.png" alt="" src="/uploads/general/images-slider/s1-2.png" style="width: 109.369px; height: 97.92px;">
-                    </div>
-
-                    <div class="tp-caption lft start" data-x="-40" data-y="240" data-speed="450" data-start="900" data-easing="easeOutBack" style="top: -189px; transform: scale(1, 1) rotate(0deg); opacity: 1; left: -38.375px; visibility: visible;">
-                        <img ng-src="/uploads/general/images-slider/s1-3.png" alt="" src="/uploads/general/images-slider/s1-3.png" style="width: 243.681px; height: 128.64px;">
-                    </div>
-
-
-
-                    <div class="tp-caption sfb start" data-x="20" data-y="125" data-speed="300" data-start="1000" data-easing="easeOutBack" style="transform: scale(1, 1) rotate(0deg); opacity: 0; left: 19.1875px; top: 170px; visibility: visible;">
-                        <img ng-src="/uploads/general/images-slider/s1-t1.png" alt="" src="/uploads/general/images-slider/s1-t1.png" style="width: 412.531px; height: 24.96px;">
-                    </div>
-
-                    <div class="tp-caption sft start" data-x="18" data-y="155" data-speed="300" data-start="1200" data-easing="easeOutBack" style="transform: scale(1, 1) rotate(0deg); opacity: 0; left: 17.2656px; top: 98.7969px; visibility: visible;">
-                        <img ng-src="/uploads/general/images-slider/s1-t2.png" alt="" src="/uploads/general/images-slider/s1-t2.png" style="width: 423.084px; height: 48px;">
-                    </div>
-                    <div class="tp-caption sfb start" data-x="30" data-y="405" data-speed="300" data-start="1600" data-easing="easeOutBack" style="transform: scale(1, 1) rotate(0deg); opacity: 0; left: 28.7812px; top: 438.797px; visibility: visible;">
-                        <a href="http://safety.stqgroup.com.sa"><img ng-src="/uploads/general/images-slider/s1-t3.png" alt="" src="/uploads/general/images-slider/s1-t3.png" style="width: 415.409px; height: 26.88px;"></a>
-                    </div>
-                </li>
-            </ul>
-        <div class="tp-loader" style="display: none;"></div><div class="tp-bannertimer" style="visibility: hidden; width: 60.3933%; overflow: hidden;"></div></div>
-    <div style="position: absolute; top: 216px; margin-top: -20px; left: 20px; display: block;" class="tp-leftarrow tparrows default hidearrows"></div><div style="position: absolute; top: 216px; margin-top: -20px; right: 20px; display: block;" class="tp-rightarrow tparrows default hidearrows"></div></div>
-    <!-- slider close -->
-    <!-- call to action -->
-    <div class="call-to-action" id="welcome">
-        <div class="container ng-binding" ng-bind-html="getSetting('HomeBlocks1')"><div class="row">
-<div class="col-md-3"><a class="btn btn-extra-large btn-primary" href="/pages/طلب%20مشروع"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Request your project now</font></font></a></div>
 <div class="col-md-4">
 <h5><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">For your business to succeed, you need experienced people to implement it.. </font></font><br><span class="id-color"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">STQ Group.. The Straightforward Group</font></font></span></h5>
 </div>
