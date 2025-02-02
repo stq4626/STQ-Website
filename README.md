@@ -884,7 +884,7 @@ Email: info@stqgroup.com.sa. <span class="Shop now"> &#62;
     <style>
         .wow:first-child { visibility: hidden; }
 		.wfloat{
-	position:fixed;
+	position: left;
 	width:60px;
 	height:60px;
 	bottom:40px;
@@ -892,7 +892,7 @@ Email: info@stqgroup.com.sa. <span class="Shop now"> &#62;
 	background-color:#25d366;
 	color:#FFF  !important;
 	border-radius:50px;
-	text-align:left;
+	text-align:center;
   font-size:40px;
 	box-shadow: 2px 2px 3px #999;
   z-index:100;
