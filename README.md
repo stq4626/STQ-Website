@@ -903,7 +903,7 @@ Email: info@stqgroup.com.sa. <span class="Shop now"> &#62;
     padding: 5px;
     font-size: 14px !important;
     position: absolute;
-    width: 100px;
+    width: 150px;
     margin: 12px -8px;
     border-radius: 20px;
     z-index: -1;
