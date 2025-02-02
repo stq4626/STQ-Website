@@ -154,12 +154,6 @@ Email: info@stqgroup.com.sa. <span class="Shop now"> &#62;
       
     NEW WEBSITE <strong> UNDER </strong> CONTRUCTION <u> New website </u> opening soon. <span class="span-example"> Good day! 
 
-</style>     
-     <a href="https://api.whatsapp.com/send?phone=00639397713951&amp;text=%D9%86%D8%B3%D8%B9%D8%AF%20%D8%A8%D8%AA%D9%88%D8%A7%D8%B5%D9%84%D9%83%D9%85%20%D9%85%D8%B9%D9%86%D8%A7%20..
-	%20%D9%85%D8%AC%D9%85%D9%88%D8%B9%D8%A9%20%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D9%82%D8%A7%D9%85%D8%A9%20%D9%84%D8%AA%D8%AC%D9%87%D9%
-	8A%D8%B2%D8%A7%D8%AA%20%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%B1%D8%AD%20%D9%88%D8%A7%D9%84%D9%82%D8%A7%D8%B9%D8%A7%D8%A
-" class="wfloat" target="_blank">
-
 
 <i class="fa fa-whatsapp my-wfloat"></i> <span><font style="vertical-align: inherit;">
 <font style="vertical-align: inherit;">Contact us</font></font></span>
@@ -182,6 +176,12 @@ Email: info@stqgroup.com.sa. <span class="Shop now"> &#62;
     <meta name="msvalidate.01" content="40853A79A76709B151DD2AAB5C5A0E32">
 <link type="text/css" rel="stylesheet" charset="UTF-8" href="https://www.gstatic.com/_/translate_http/_/ss/k=translate_http.tr.26tY-h6gH9w.L.W.O/am=BgM/d=0/rs=AN8SPfowrRiAotkQD9r4k3ANeQYGsCLZ7g/m=el_main_css"></head>
 <body>
+
+</style>     
+     <a href="https://api.whatsapp.com/send?phone=00639397713951&amp;text=%D9%86%D8%B3%D8%B9%D8%AF%20%D8%A8%D8%AA%D9%88%D8%A7%D8%B5%D9%84%D9%83%D9%85%20%D9%85%D8%B9%D9%86%D8%A7%20..
+	%20%D9%85%D8%AC%D9%85%D9%88%D8%B9%D8%A9%20%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D9%82%D8%A7%D9%85%D8%A9%20%D9%84%D8%AA%D8%AC%D9%87%D9%
+	8A%D8%B2%D8%A7%D8%AA%20%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%B1%D8%AD%20%D9%88%D8%A7%D9%84%D9%82%D8%A7%D8%B9%D8%A7%D8%A
+" class="wfloat" target="_blank">
 
 
 
