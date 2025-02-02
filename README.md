@@ -881,36 +881,26 @@ Email: info@stqgroup.com.sa. <span class="Shop now"> &#62;
 
     <script src="/bundles/rev?v=AazH0u3H-Os6Vxr2JWJ_VnfkqfBD94t2yWXY5Tq_nP41"></script>
 
-    <style>
-        .wow:first-child { visibility: hidden; }
-		.wfloat{
-	position: fixed;
-	width:60px;
-	height:60px;
-	bottom:40px;
-	right:40px;
-	background-color:#25d366;
-	color:#FFF  !important;
-	border-radius:50px;
-	text-align:center;
-  font-size:40px;
-	box-shadow: 2px 2px 3px #999;
-  z-index:100;
-}
- .wfloat span {
-    background-color: #25d366;
-    display: inline-block;
-    padding: 5px;
-    font-size: 14px !important;
-    position: absolute;
-    width: 120px;
-    margin: 12px -8px;
-    border-radius: 20px;
-    z-index: -1;
-}  
-.my-wfloat{
-	    float: none !important;
-    margin: 12px auto auto 2px !important;
+</style type="text/css">
+#whatsapp .wtsapp{
+position: fixed;
+transform:all .5s ease;
+backround-color:25d366;
+display: block;
+text-alighn: center;
+box shadow: 0 0 20px rgba(0,0,0,0,.15);
+border-radius: 50px;
+border-right: none;
+color: #fff;
+font-weight:b 700;
+font-size: 30px;
+bottom: 70px;
+left: 20px;
+border: 0;
+z-index: 9999;
+width: 50px;
+height: 50px;
+line-height: 50px;
 }
     </style>
  <a href="https://api.whatsapp.com/send?phone=966555133332&amp;text=%D9%86%D8%B3%D8%B9%D8%AF%20%D8%A8%D8%AA%D9%88%D8%A7%D8%B5%D9%84%D9%83%D9%85%20%D9%85%D8%B9%D9%86%D8%A7%20..%20%D9%85%D8%AC%D9%85%D9%88%D8%B9%D8%A9%20%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D9%82%D8%A7%D9%85%D8%A9%20%D9%84%D8%AA%D8%AC%D9%87%D9%8A%D8%B2%D8%A7%D8%AA%20%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%B1%D8%AD%20%D9%88%D8%A7%D9%84%D9%82%D8%A7%D8%B9%D8%A7%D8%AA" class="wfloat" target="_blank">
