@@ -163,7 +163,14 @@ Email: info@stqgroup.com.sa. <span class="Shop now"> &#62;
 <div class="col-md-4"><a class="btn btn-extra-large btn-primary" href="/9/"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">View our latest projects</font></font></a></div>
 
 <div style="float: left; margin: 0px 36px 40px; width: 390px; height: 230px; padding: 20px 25px; box-shadow: 0px 5px 10px 0px #d4d4d4; border: 1px solid #d9d9d9;background: #fff;">
-                        <iframe src="http://www.youtube.com/embed/_NEMiZWT-70?rel=0" width="340" height="190" frameborder="0"></iframe>
+
+
+ 
+<iframe src=<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/3QArAxmiR6k?si=-dyyi-OujJ-D1p4i" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+
+ 
                     </div>
                     <div>
                         <h3><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">..
