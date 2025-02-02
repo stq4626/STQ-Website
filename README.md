@@ -885,17 +885,17 @@ Email: info@stqgroup.com.sa. <span class="Shop now"> &#62;
         .wow:first-child { visibility: hidden; }
 		.wfloat{
 	position:fixed;
-	width:80px;
-	height:80px;
-	bottom:60px;
-	right:60px;
+	width:60px;
+	height:60px;
+	bottom:40px;
+	right:40px;
 	background-color:#25d366;
 	color:#FFF  !important;
 	border-radius:50px;
 	text-align:center;
   font-size:40px;
 	box-shadow: 2px 2px 3px #999;
-  z-index:100;
+  z-index:80;
 }
  .wfloat span {
     background-color: #25d366;
