@@ -419,8 +419,7 @@ Email: info@stqgroup.com.sa. <span class="Shop now"> &#62;
 
 </footer>
 <!-- footer close --></div>
-    </div>
-
+   
 
 
     <!-- CSS Files
