@@ -884,7 +884,7 @@ Email: info@stqgroup.com.sa. <span class="Shop now"> &#62;
     <style>
         .wow:first-child { visibility: hidden; }
 		.wfloat{
-	position: left;
+	position: fixed;
 	width:60px;
 	height:60px;
 	bottom:40px;
