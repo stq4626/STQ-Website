@@ -160,7 +160,7 @@ Email: info@stqgroup.com.sa. <span class="Shop now"> &#62;
 <h5><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">For your business to succeed, you need experienced people to implement it.. </font></font><br><span class="id-color"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">STQ Group.. The Straightforward Group</font></font></span></h5>
 </div>
 <div class="col-md-4">
-<div class="col-md-4"><a class="btn btn-extra-large btn-primary" href="/9/"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">View our latest projects</font></font></a></div>
+<div class="col-md-4"><a class="http://stqgroup.com.sa/9/"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">View our latest projects</font></font></a></div>
 
  
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/3QArAxmiR6k?si=-dyyi-OujJ-D1p4i" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/6ar3kqoESfo?si=gMl_erzHityD8_z_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
