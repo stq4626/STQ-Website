@@ -164,10 +164,7 @@ Email: info@stqgroup.com.sa. <span class="Shop now"> &#62;
 
 <div class="wrapper">
 <h1>Front page</h1>h1>
-<video autoplay controls>
-<source src="iframe src="iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/3QArAxmiR6k?si=-dyyi-OujJ-D1p4i" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe" frameborder="0"></iframe>
-your browser does not support mp4 video, change browser!
-</video>
+<"iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/3QArAxmiR6k?si=-dyyi-OujJ-D1p4i" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe" frameborder="0"></iframe>
 </div>
 </body>
 </html>
