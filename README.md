@@ -158,6 +158,350 @@ Email: info@stqgroup.com.sa. <span class="Shop now"> &#62;
 
 
 
+                    <div class="caption large_text lft tp-caption start" data-x="600" data-y="100" data-speed="300" data-start="1000" data-easing="easeOutBack" style="transform: scale(1, 1) rotate(0deg); opacity: 1; left: 575.625px; top: 96px; visibility: visible;">
+                        <a href="/pages/أرضية-خشبة-المسرح"><img ng-src="/uploads/general/images-slider/s62.png" alt="" src="/uploads/general/images-slider/s62.png" style="width: 168.85px; height: 195.84px;"></a>
+                    </div>
+
+                    <div class="caption large_text lft tp-caption start" data-x="400" data-y="100" data-speed="300" data-start="1100" data-easing="easeOutBack" style="transform: scale(1, 1) rotate(0deg); opacity: 1; left: 383.75px; top: 96px; visibility: visible;">
+                        <a href="/pages/العزل-الصوتي"><img ng-src="/uploads/general/images-slider/s63.png" alt="" src="/uploads/general/images-slider/s63.png" style="width: 168.85px; height: 195.84px;"></a>
+                    </div>
+
+                    <div class="caption large_text lft tp-caption start" data-x="200" data-y="100" data-speed="300" data-start="1200" data-easing="easeOutBack" style="transform: scale(1, 1) rotate(0deg); opacity: 1; left: 191.875px; top: 96px; visibility: visible;">
+                        <a href="/pages/الأسقف-المعلقة"><img ng-src="/uploads/general/images-slider/s64.png" alt="" src="/uploads/general/images-slider/s64.png" style="width: 168.85px; height: 195.84px;"></a>
+                    </div>
+
+                    <div class="caption large_text lft tp-caption start" data-x="0" data-y="100" data-speed="300" data-start="1300" data-easing="easeOutBack" style="transform: scale(1, 1) rotate(0deg); opacity: 1; left: 0px; top: 96px; visibility: visible;">
+                        <a href="/pages/المسارح-المتنقلة"><img ng-src="/uploads/general/images-slider/s65.png" alt="" src="/uploads/general/images-slider/s65.png" style="width: 168.85px; height: 195.84px;"></a>
+                    </div>
+                </li>
+                <li data-transition="fade" data-slotamount="20" data-masterspeed="300" data-thumb="/uploads/general/images-slider/thumbs/thumb1.jpg" style="width: 100%; height: 100%; overflow: hidden; visibility: visible; left: 0px; top: 0px; z-index: 18; opacity: 1;">
+                    <!--  BACKGROUND IMAGE -->
+                    <div class="slotholder"><img ng-src="/uploads/general/images-slider/wide1.jpg" alt="" class="defaultimg" style="height: 432px; width: 1175.76px; position: relative; left: -127.5px; top: 0px; opacity: 0;" src="/uploads/general/images-slider/wide1.jpg"></div>
+
+                    <!-- THE CAPTIONS IN THIS SLIDE -->
+                    <div class="caption large_text lfl tp-caption start" data-x="580" data-y="70" data-speed="450" data-start="400" data-easing="easeOutExpo" style="left: -477px; transform: scale(1, 1) rotate(0deg); opacity: 1; top: 67.1875px; visibility: visible;">
+                        <img ng-src="/uploads/general/images-slider/s1-main.png" alt="" src="/uploads/general/images-slider/s1-main.png" style="width: 417.328px; height: 393.6px;">
+                    </div>
+
+                    <div class="caption large_text lfr tp-caption start" data-x="380" data-y="225" data-speed="850" data-start="650" data-easing="easeOutExpo" style="left: 981px; transform: scale(1, 1) rotate(0deg); opacity: 1; top: 216px; visibility: visible;">
+                        <img ng-src="/uploads/general/images-slider/s1-1.png" alt="" src="/uploads/general/images-slider/s1-1.png" style="width: 143.906px; height: 136.32px;">
+                    </div>
+                    <div class="caption large_text lfr tp-caption start" data-x="230" data-y="270" data-speed="150" data-start="750" data-easing="easeOutExpo" style="left: 981px; transform: scale(1, 1) rotate(0deg); opacity: 1; top: 259.188px; visibility: visible;">
+                        <img ng-src="/uploads/general/images-slider/s1-2.png" alt="" src="/uploads/general/images-slider/s1-2.png" style="width: 109.369px; height: 97.92px;">
+                    </div>
+
+                    <div class="tp-caption lft start" data-x="-40" data-y="240" data-speed="450" data-start="900" data-easing="easeOutBack" style="top: -189px; transform: scale(1, 1) rotate(0deg); opacity: 1; left: -38.375px; visibility: visible;">
+                        <img ng-src="/uploads/general/images-slider/s1-3.png" alt="" src="/uploads/general/images-slider/s1-3.png" style="width: 243.681px; height: 128.64px;">
+                    </div>
+
+
+
+                    <div class="tp-caption sfb start" data-x="20" data-y="125" data-speed="300" data-start="1000" data-easing="easeOutBack" style="transform: scale(1, 1) rotate(0deg); opacity: 0; left: 19.1875px; top: 170px; visibility: visible;">
+                        <img ng-src="/uploads/general/images-slider/s1-t1.png" alt="" src="/uploads/general/images-slider/s1-t1.png" style="width: 412.531px; height: 24.96px;">
+                    </div>
+
+                    <div class="tp-caption sft start" data-x="18" data-y="155" data-speed="300" data-start="1200" data-easing="easeOutBack" style="transform: scale(1, 1) rotate(0deg); opacity: 0; left: 17.2656px; top: 98.7969px; visibility: visible;">
+                        <img ng-src="/uploads/general/images-slider/s1-t2.png" alt="" src="/uploads/general/images-slider/s1-t2.png" style="width: 423.084px; height: 48px;">
+                    </div>
+                    <div class="tp-caption sfb start" data-x="30" data-y="405" data-speed="300" data-start="1600" data-easing="easeOutBack" style="transform: scale(1, 1) rotate(0deg); opacity: 0; left: 28.7812px; top: 438.797px; visibility: visible;">
+                        <a href="http://safety.stqgroup.com.sa"><img ng-src="/uploads/general/images-slider/s1-t3.png" alt="" src="/uploads/general/images-slider/s1-t3.png" style="width: 415.409px; height: 26.88px;"></a>
+                    </div>
+                </li>
+            </ul>
+        <div class="tp-loader" style="display: none;"></div><div class="tp-bannertimer" style="visibility: hidden; width: 60.3933%; overflow: hidden;"></div></div>
+    <div style="position: absolute; top: 216px; margin-top: -20px; left: 20px; display: block;" class="tp-leftarrow tparrows default hidearrows"></div><div style="position: absolute; top: 216px; margin-top: -20px; right: 20px; display: block;" class="tp-rightarrow tparrows default hidearrows"></div></div>
+    <!-- slider close -->
+    <!-- call to action -->
+    <div class="call-to-action" id="welcome">
+        <div class="container ng-binding" ng-bind-html="getSetting('HomeBlocks1')"><div class="row">
+<div class="col-md-3"><a class="btn btn-extra-large btn-primary" href="/pages/طلب%20مشروع"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Request your project now</font></font></a></div>
+<div class="col-md-4">
+<h5><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">For your business to succeed, you need experienced people to implement it.. </font></font><br><span class="id-color"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">STQ Group.. The Straightforward Group</font></font></span></h5>
+</div>
+<div class="col-md-4">
+<div class="col-md-4"><a class="btn btn-extra-large btn-primary" href="/9/"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">View our latest projects</font></font></a></div>
+</div>
+</div></div>
+    </div>
+    <div id="content" class="no-bottom">
+        <div class="container no-bottom">
+
+            <div class="welcome">
+                <div class="row welcm-left">
+                    <div style="float: left; margin: 0px 36px 40px; width: 390px; height: 230px; padding: 20px 25px; box-shadow: 0px 5px 10px 0px #d4d4d4; border: 1px solid #d9d9d9;background: #fff;">
+                        <iframe src="http://www.youtube.com/embed/_NEMiZWT-70?rel=0" width="340" height="190" frameborder="0"></iframe>
+                    </div>
+                    <div>
+                        <h3><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">..
+
+   
+                             </font></font><small style="font-size: 14px;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+			     
+	
+ </font></font></small>
+                            <br><br>
+                        </h3>
+
+                    </div>
+
+
+      
+                <div class="clearfix"></div>
+            </div>
+            <span id="services" ng-bind-html="getSetting('HomeBlocks3')" class="ng-binding"><div class="row">
+<h4 class="col-md-12 ttl-bar"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Group activities and services</font></font></h4>
+<div class="col-md-4">
+<div class="team-item">
+<div class="team-image"><img class="img-responsive" src="/Uploads/General/actv1.jpg" alt="author"></div>
+<div class="team-text">
+<h3><a href="/pages/تجهيزات-المسارح"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Theater equipment</font></font></a></h3>
+</div>
+</div>
+</div>
+ 
+<div class="col-md-4">
+<div class="team-item">
+<div class="team-image"><img class="img-responsive" src="/Uploads/General/actv10.jpg" alt="author"></div>
+<div class="team-text">
+<h3><a href="/pages/القاعات"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Meeting room equipment</font></font></a></h3>
+</div>
+</div>
+</div>
+ 
+<div class="col-md-4">
+<div class="team-item">
+<div class="team-image"><img class="img-responsive" src="/Uploads/General/actv7.jpg" alt="author"></div>
+<div class="team-text">
+<h3><a href="/pages/تجهيزات-المؤتمرات"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Conference Equipment</font></font></a></h3>
+</div>
+</div>
+</div>
+ 
+<div class="clearfix">&nbsp;</div>
+</div>
+<div class="row">
+<div class="col-md-4">
+<div class="team-item">
+<div class="team-image"><img class="img-responsive" src="/Uploads/General/actv2.jpg" alt="author"></div>
+<div class="team-text">
+<h3><a href="/pages/الكراسي"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Supply and installation of theater chairs</font></font></a></h3>
+</div>
+</div>
+</div>
+ 
+<div class="col-md-4">
+<div class="team-item">
+<div class="team-image"><img class="img-responsive" src="/Uploads/General/actv8.jpg" alt="author"></div>
+<div class="team-text">
+<h3><a href="/pages/الأمن-والسلامة"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Safety and security equipment</font></font></a></h3>
+</div>
+</div>
+</div>
+ 
+<div class="col-md-4">
+<div class="team-item">
+<div class="team-image"><img class="img-responsive" src="/Uploads/General/actv9.jpg" alt="author"></div>
+<div class="team-text">
+<h3><a href="/pages/الإنتاج-الإعلامي"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Media production</font></font></a></h3>
+</div>
+</div>
+</div>
+</div></span>
+            <span ng-bind-html="getSetting('HomeBlocks4')" class="ng-binding"><div class="container no-bottom gal">
+<div class="ttl-bar"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Selections from the group's previous works</font></font></div>
+<div class="row">
+<div class="col-md-4"><a title="" href="/uploads/general/g5.jpg" target="_blank" rel="prettyPhoto[g]"><img src="/uploads/general/g5.jpg" alt=""></a></div>
+<div class="col-md-4"><a title="" href="/uploads/general/g9.jpg" target="_blank" rel="prettyPhoto[g]"><img src="/uploads/general/g9.jpg" alt=""></a></div>
+<div class="col-md-4"><a title="" href="/uploads/general/g3.jpg" target="_blank" rel="prettyPhoto[g]"><img src="/uploads/general/g3.jpg" alt=""></a></div>
+</div>
+<br>
+<div class="row">
+<div class="col-md-6 smallgal">
+<div class="col-md-6"><a title="" href="/uploads/general/g4.jpg" target="_blank" rel="prettyPhoto[g]"><img src="/uploads/general/g4.jpg" alt=""></a></div>
+<div class="col-md-6"><a title="" href="/uploads/general/g1.jpg" target="_blank" rel="prettyPhoto[g]"><img src="/uploads/general/g1.jpg" alt=""></a></div>
+<div class="col-md-6"><a title="" href="/uploads/general/g6.jpg" target="_blank" rel="prettyPhoto[g]"><img src="/uploads/general/g6.jpg" alt=""></a></div>
+<div class="col-md-6"><a title="" href="/uploads/general/g7.jpg" target="_blank" rel="prettyPhoto[g]"><img src="/uploads/general/g7.jpg" alt=""></a></div>
+</div>
+<div class="col-md-6"><a title="" href="/uploads/general/g8.jpg" rel="prettyPhoto[g]"><img src="/uploads/general/g8.jpg" alt="" width="700"></a></div>
+</div>
+</div></span>
+            <div class="container no-bottom" ng-init="toptype=10;topitems=4;topparent=0">
+                <div class="row">
+                    <div class="ttl-bar"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+                        From the group news
+                    </font></font></div>
+                    <ul class="col-md-12 bloglist-small">
+                        <!-- ngRepeat: item in topmedia --><li class="col-md-6 ng-scope" ng-repeat="item in topmedia" style="direction:rtl !important">
+                            <div class="date-box">
+                                <span class="day ng-binding"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">02</font></font><small class="ng-binding"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">September</font></font></small></span>
+                                <span class="month ng-binding"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2018</font></font></span>
+                            </div>
+                            <div class="txt">
+                                <h5><a href="/10/4/5456" class="ng-binding"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Completion of the Abha Literary Club Theater Project</font></font></a></h5>
+                                <span class="read ng-binding"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Thanks to God, the Abha Literary Club Theater project was completed in record time and with quality and precision that won the admiration and appreciation of the club’s management.</font></font></span>
+                                <!--<span class="info"><a ng-href="/#/{{tid+'/'+item.ParentId+'/'+item.MediaId}}">اقرأ المزيد</a></span>-->
+                            </div>
+                        </li><!-- end ngRepeat: item in topmedia --><li class="col-md-6 ng-scope" ng-repeat="item in topmedia" style="direction:rtl !important">
+                            <div class="date-box">
+                                <span class="day ng-binding"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">20</font></font><small class="ng-binding"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">July</font></font></small></span>
+                                <span class="month ng-binding"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2020</font></font></span>
+                            </div>
+                            <div class="txt">
+                                <h5><a href="/10/4/5611" class="ng-binding"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Official visit to see the progress of work - Education Administration Theater - Taif Governorate.</font></font></a></h5>
+                                <span class="read ng-binding"></span>
+                                <!--<span class="info"><a ng-href="/#/{{tid+'/'+item.ParentId+'/'+item.MediaId}}">اقرأ المزيد</a></span>-->
+                            </div>
+                        </li><!-- end ngRepeat: item in topmedia --><li class="col-md-6 ng-scope" ng-repeat="item in topmedia" style="direction:rtl !important">
+                            <div class="date-box">
+                                <span class="day ng-binding"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">06</font></font><small class="ng-binding"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">July</font></font></small></span>
+                                <span class="month ng-binding"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2017</font></font></span>
+                            </div>
+                            <div class="txt">
+                                <h5><a href="/10/4/3355" class="ng-binding"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Al-Istiqama Group expands in the field of security and safety</font></font></a></h5>
+                                <span class="read ng-binding"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Al-Istiqaama Group has appointed a new team and cadres with the highest experience in the field of security and safety, in addition to updating all security and safety requirements and equipment for the year 2016 AD.
+</font></font></span>
+                                <!--<span class="info"><a ng-href="/#/{{tid+'/'+item.ParentId+'/'+item.MediaId}}">اقرأ المزيد</a></span>-->
+                            </div>
+                        </li><!-- end ngRepeat: item in topmedia --><li class="col-md-6 ng-scope" ng-repeat="item in topmedia" style="direction:rtl !important">
+                            <div class="date-box">
+                                <span class="day ng-binding"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">06</font></font><small class="ng-binding"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">July</font></font></small></span>
+                                <span class="month ng-binding"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2017</font></font></span>
+                            </div>
+                            <div class="txt">
+                                <h5><a href="/10/4/5435" class="ng-binding"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Delivery of Hawtah Bani Tamim project</font></font></a></h5>
+                                <span class="read ng-binding"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">The completion of the Hawtah Bani Tamim Theater has been delivered</font></font></span>
+                                <!--<span class="info"><a ng-href="/#/{{tid+'/'+item.ParentId+'/'+item.MediaId}}">اقرأ المزيد</a></span>-->
+                            </div>
+                        </li><!-- end ngRepeat: item in topmedia -->
+                    </ul>
+                </div>
+            </div>
+        </div>
+
+        <!-- project close -->
+        <!-- parallax content begin -->
+        <section id="full-content-1" class="border-top border-bottom no-bottom" data-speed="8" data-type="background">
+            <div class="container">
+                <div class="row">
+                    <div class="span12 text-center">
+                        <h1 class="animated wow fadeInDown" data-wow-duration="1500" style="margin-top: -15px; visibility: hidden; animation-name: none;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+                            Integrity of security and safety systems..
+                        </font></font></h1>
+
+                        <h3 class="med-white wow fadeInDown" data-wow-duration="1500" data-wow-delay="0.2s" style="visibility: hidden; animation-delay: 0.2s; animation-name: none;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">A team of professionals in the field of security and safety.</font></font></h3>
+                        <p class="animated wow fadeInDown" data-wow-duration="1500" data-wow-delay="0.2s" style="visibility: hidden; animation-delay: 0.2s; animation-name: none;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+
+                            Al-Istiqama Group carefully studies, prepares and implements accurately using the latest global technologies recommended in the field of security and safety.
+
+                        </font></font></p><p>
+                        </p><p class="animated wow fadeInDown" data-wow-duration="1500" data-wow-delay="0.2s" style="visibility: hidden; animation-delay: 0.2s; animation-name: none;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">To view our services in the field of security and safety .. </font></font><a href="/pages/الأمن-والسلامة" style="color:#fff;text-decoration:underline"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">click here</font></font></a></p>
+                        <img style="margin-top: -15px; visibility: hidden; animation-delay: 0.2s; animation-name: none;" ng-src="images/idevice.png" alt="" class="animated wow slideInLeft" data-wow-duration="1500" data-wow-delay="0.2s" src="images/idevice.png">
+                    </div>
+                </div>
+            </div>
+        </section>
+    </div>
+</div><!-- end ngIf: isHome --></div>
+        <!-- ngInclude: '/app/views/_footer.html' --><div ng-include="'/app/views/_footer.html'" class="ng-scope"><!-- footer begin -->
+<section class="hidden ng-scope" id="footeradv-full" data-speed="8" data-type="background" style="background: url(/uploads/general/images-slider/wide1.jpg) top center !important">
+    <div class="container">
+        <div class="row">
+            <div class="flexslider testi-slider">
+                <ul class="slides">
+                    <li style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 1; display: block; z-index: 2;" class="flex-active-slide">
+                        <div style="margin:15px auto -15px; height:140px;width:100%; background:url(/uploads/general/images-slider/footer1.png) no-repeat center bottom"></div>
+                    </li>
+                    <li style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;">
+                        <div style="margin:15px auto -15px; height:140px;width:100%; background:url(/uploads/general/images-slider/footer2.png) no-repeat center bottom"></div>
+                    </li>
+                </ul>
+            <ol class="flex-control-nav flex-control-paging"><li><a class="flex-active">1</a></li><li><a>2</a></li></ol><ul class="flex-direction-nav"><li class="flex-nav-prev"><a class="flex-prev" href="#">Previous</a></li><li class="flex-nav-next"><a class="flex-next" href="#">Next</a></li></ul></div>
+        </div>
+    </div>
+</section>
+<br class="ng-scope">
+<footer class="ng-scope">
+    <div class="container">
+        <div class="row">
+            <iframe style="width:100%;height:100%;min-height:220px" src="https://maps.google.com/maps/ms?msa=0&amp;msid=210018892680451878443.0004dc1160f9ddff99b0e&amp;ie=UTF8&amp;ll=26.096985,43.982522&amp;spn=0,0&amp;t=m&amp;iwloc=0004dc1160fe9ad2d1928&amp;output=embed" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
+
+
+            <!--<div class="col-md-3 fabout">
+        <img src="/images/logo-small.png" alt="logo"><br><br>
+        نشأت المجموعة منذ أكثر من 30 عاماً كمنشأة إعلامية تمتلك استديوهات وبلاتوهات تصوير حيث تعتبر المجموعة من رواد الصناعة الإعلامية في المملكة العربية السعودية حيث تمتلك استوديوهات رقمية وفريق عمل متخصص .
+        <br />
+        وحديثا توسعت المجموعة وأنشأت عدة أقسام تخدم النشاط الأساسي لها لتكتمل المنظومة الإعلامية والتقنية .. <a href="http://stqgroup.com.sa/">المزيد</a>
+    </div>
+
+    <div class="col-md-6">
+    </div>-->
+
+
+     
+        </div>
+        <div class="row">
+            <div class="col-md-12">
+                <h3><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">To contact us:</font></font></h3>
+                <div class="widget widget-address">
+                    <address>
+                        <strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Al-Istiqama Group for Theater and Hall Equipment</font></font></strong>
+                        <br><br>
+                        <span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Kingdom of Saudi Arabia</font></font></span>
+                        <!--<span>الرياض: الملز .. هاتف: 966549114052+</span>
+                <br />-->
+                        <span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+                            Qassim - Unaizah - P.O. Box: 1502 - Postal Code: 51911
+                        </font></font></span>
+                        <span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Phone: +966163645880</font></font></span>
+                        <span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Fax: +966163653332</font></font></span>
+                        <span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Email: </font></font><a href="mailto:info@stqgroup.com.sa"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">info@stqgroup.com.sa</font></font></a></span>
+                    </address>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="subfooter">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-6"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+                    © All rights reserved - Al-Istiqama for Theater and Hall Equipment
+                </font></font></div>
+                <div class="col-md-6">
+                    <nav>
+                        <ul>
+                            <li><a href="/"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Home</font></font></a></li>
+                            <li><a href="#welcome"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Who we are</font></font></a></li>
+                            <li><a href="#services"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Our services</font></font></a></li>
+                            <li><a href="/9"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Our projects</font></font></a></li>
+                            <li><a href="/10/4"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Our news</font></font></a></li>
+                            <li><a href="/pages/اتصل-بنا"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Contact us</font></font></a></li>
+                        </ul>
+                    </nav>
+                </div>
+            </div>
+        </div>
+    </div>
+
+</footer>
+<!-- footer close --></div>
+    </div>
+
+
+
+    <!-- CSS Files
+    ================================================== -->
+    <link rel="stylesheet" href="/css/main.css" type="text/css" id="main-css">
+    <link rel="stylesheet" href="/css/wide-screen.css" type="text/css" id="wide">
+    <link rel="stylesheet" href="/css/sass-compiled.css">
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+    <!-- Javascript Files
+    ================================================== -->
+    <script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/js?id=G-Q2JERS7R48&amp;cx=c&amp;_slc=1"></script><script type="text/javascript" async="" charset="utf-8" src="https://www.gstatic.com/recaptcha/releases/p09oe8YIFfKgcnqQ9m9k4aiB/recaptcha__en.js" crossorigin="anonymous" integrity="sha384-+o4WMEIVaqJv2OSyUGcZwITebuccICWoZiIEvjf6rbs34UX8HV3S+g6ypB1KhLvK"></script><script async="" src="https://www.google-analytics.com/analytics.js"></script><script src="/bundles/jquery?v=gkWyJthHPtwkFjvHuNinBjchIfwLwc_KbE-H26J2kAI1"></script>
+
+    <script src="/bundles/js?v=d4Ymqc65FC1-ZlB__lLeVR6Y13bt_J62LJajAVANMes1"></script>
+
+    <script src="/bundles/rev?v=AazH0u3H-Os6Vxr2JWJ_VnfkqfBD94t2yWXY5Tq_nP41"></script>
 
 
 
