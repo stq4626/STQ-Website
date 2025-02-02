@@ -177,7 +177,7 @@ Email: info@stqgroup.com.sa. <span class="Shop now"> &#62;
       
              
             
-            <span id="services" ng-bind-html="getSetting('HomeBlocks3')" class="ng-binding"><div class="row">
+           
 <h4 class="col-md-12 ttl-bar"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Group activities and services</font></font></h4>
 <div class="col-md-4">
 <div class="team-item">
