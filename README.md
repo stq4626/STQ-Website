@@ -887,7 +887,7 @@ Email: info@stqgroup.com.sa. <span class="Shop now"> &#62;
 	position:fixed;
 	width:60px;
 	height:60px;
-	bottom:60px;
+	bottom:40px;
 	right:40px;
 	background-color:#25d366;
 	color:#FFF  !important;
