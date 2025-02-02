@@ -1,4 +1,5 @@
 <header>
+	<footer>
   <h1>Welcome to Al-Istiqama Group</h1> 
   <h1>welcome you to its official website</h1>
 
