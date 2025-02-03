@@ -160,7 +160,7 @@ Email: info@stqgroup.com.sa. <span class="Shop now"> &#62;
 <div class="col-md-4">
 <div class="col-md-4"><a class="btn btn-extra-large btn-primary" href="/9/"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">View our latest projects</font></font></a></div>
 
-<iframe width="1500" height="700" src="https://www.youtube-nocookie.com/embed/3QArAxmiR6k?si=-dyyi-OujJ-D1p4i" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
+<iframe width="1200" height="700" src="https://www.youtube-nocookie.com/embed/3QArAxmiR6k?si=-dyyi-OujJ-D1p4i" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
 
 
  
