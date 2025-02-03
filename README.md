@@ -161,7 +161,14 @@ Email: info@stqgroup.com.sa. <span class="Shop now"> &#62;
 
 <iframe width="975" height="400" src="https://www.youtube-nocookie.com/embed/3QArAxmiR6k?si=-dyyi-OujJ-D1p4i" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
 
-<iframe width="975" height="400" src="https://www.youtube-nocookie.com/embed/3QArAxmiR6k?si=-dyyi-OujJ-D1p4i" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
+
+
+</font></font><!--<span class="icon icon-phone"></span> {{getSetting("Mobile")}}(966)
+                    <span class="separator"></span>
+                    <span class="icon icon-envelope"></span> <a href="mailto:{{getSetting("FormEmail")}}">{{getSetting("FormEmail")}}</a>-->
+                </div>
+                <div class="text-right">
+<a class="social-icon sb-icon-youtube" href="https://www.youtube.com/channel/UCOYyU5beBP_ncEhhT7kQw3w"></a>
 
 
 
