@@ -613,7 +613,7 @@ Email: info@stqgroup.com.sa. <span class="Shop now"> &#62;
 
 
  
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/3QArAxmiR6k?si=-dyyi-OujJ-D1p4i" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/6ar3kqoESfo?si=gMl_erzHityD8_z_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="Cat03.jpg"></iframe>
 
 
 
