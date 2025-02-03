@@ -161,20 +161,14 @@ Email: info@stqgroup.com.sa. <span class="Shop now"> &#62;
 <div class="col-md-4"><a class="btn btn-extra-large btn-primary" href="/9/"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">View our latest projects</font></font></a></div>
 
 <iframe width="975" height="400" src="https://www.youtube-nocookie.com/embed/3QArAxmiR6k?si=-dyyi-OujJ-D1p4i" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
+<h3><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
 
- 
-                    
-                  
-                        <h3><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">..
 
+
+<iframe width="975" height="400" <iframe width="560" height="315" src="https://www.youtube.com/embed/nR77DVOdfmA?si=sPUwIyTboqjBMFVD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
    
-                             </font></font><small style="font-size: 14px;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
-			     
-                
-
-
-      
-             
+                             
+</font></font><small style="font-size: 14px;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">  
             
            
 <h4 class="col-md-12 ttl-bar"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Group activities and services</font></font></h4>
@@ -365,7 +359,7 @@ Email: info@stqgroup.com.sa. <span class="Shop now"> &#62;
     </div>-->
     
 
-<iframe width="975" height="400" <iframe width="560" height="315" src="https://www.youtube.com/embed/nR77DVOdfmA?si=sPUwIyTboqjBMFVD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
+
 
 
 
