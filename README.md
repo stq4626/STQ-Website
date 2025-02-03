@@ -154,16 +154,13 @@ Email: info@stqgroup.com.sa. <span class="Shop now"> &#62;
       
     NEW WEBSITE <strong> UNDER </strong> CONTRUCTION <u> New website </u> opening soon. <span class="span-example"> Good day! 
 
-
-
-    <iframe width="1890" height="800" src="https://www.youtube-nocookie.com/embed/3QArAxmiR6k?si=-dyyi-OujJ-D1p4i" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
-
-
 <div class="col-md-4">
 <h5><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">For your business to succeed, you need experienced people to implement it.. </font></font><br><span class="id-color"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">STQ Group.. The Straightforward Group</font></font></span></h5>
 </div>
 <div class="col-md-4">
 <div class="col-md-4"><a class="btn btn-extra-large btn-primary" href="/9/"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">View our latest projects</font></font></a></div>
+
+<iframe width="1500" height="700" src="https://www.youtube-nocookie.com/embed/3QArAxmiR6k?si=-dyyi-OujJ-D1p4i" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
 
 
  
