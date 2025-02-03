@@ -595,7 +595,9 @@ Email: info@stqgroup.com.sa. <span class="Shop now"> &#62;
 
     
 
-
+<div class="col-md-4">
+<h5><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">For your business to succeed, you need experienced people to implement it.. </font></font><br><span class="id-color"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">STQ Group.. The Straightforward Group</font></font></span></h5>
+</div>
 <div class="col-md-4">
 <div class="col-md-4"><a class="btn btn-extra-large btn-primary" href="/9/"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">View our latest projects</font></font></a></div>
 
