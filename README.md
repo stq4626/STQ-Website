@@ -163,18 +163,7 @@ Email: info@stqgroup.com.sa. <span class="Shop now"> &#62;
 
  
  
-<div class="container">
-        <div id="logo">
-            <div class="inner">
-                <a href="/">
-                    <img src="/images/logo.png" alt="logo">
-                </a>
-            </div>
-        </div>
-        <!-- mainmenu begin -->
-        <ul id="mainmenu">
-            <mainmenu class="ng-isolate-scope"><li class="">
-	    
+
 	
 	<a href="/"><li><a href="http://stqgroup.com.sa/"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Home</font></font></a></li>
 
