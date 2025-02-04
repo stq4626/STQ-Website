@@ -178,9 +178,7 @@ Email: info@stqgroup.com.sa. <span class="Shop now"> &#62;
      
 
       <span class="icon-home"></span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Home</font></font></a>
-        src="https://www.youtube-nocookie.com/embed/3QArAxmiR6k?si=-dyyi-OujJ-D1p4i"     
-                 
-	      
+        
     
             
         </li>
