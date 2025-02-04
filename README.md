@@ -1,9 +1,38 @@
-<header>	
-  <h1>Welcome to Al-Istiqama Group</h1> 
+<header>
+  <h1>Welcome to Al-Istiqama Group</h1>
   <h1>welcome you to its official website</h1>
-  
 
-  
+</header>
+   <!-- CSS Files
+   header {
+  background-color: red;
+  color: #fff;
+  padding: 16px;
+  text-align: center;
+}
+
+section {
+  padding: 20px;
+  margin: 20px;
+  background-color: red;
+  color: #fff;
+  box-shadow: 2px 2px 5px #ccc;
+}
+
+footer {
+  background-color: red;
+  color: #fff;
+  padding: 10px;
+  text-align: Left;
+}
+
+
+
+
+
+
+
+
    <p>
     Old Website
   </p>
