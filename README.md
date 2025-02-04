@@ -173,11 +173,13 @@ Email: info@stqgroup.com.sa. <span class="Shop now"> &#62;
         </div>
         <!-- mainmenu begin -->
         <ul id="mainmenu">
-            <mainmenu class="ng-isolate-scope">        <li class="">
-            <a href="/">
-              <span class=/"https://stq4626.github.io/WELCOME/#group-activities-and-servicestheate"></span><font style="vertical-align: inherit;"><font style="vertical- 
-              align: inherit;">Home</font></font></a>
-	      
+            <mainmenu class="ng-isolate-scope"><li class=""><a href="/">
+
+     
+
+      <span class="icon-home"></span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">  Home             </font></font></a>
+            
+                 
 	      
     
             
