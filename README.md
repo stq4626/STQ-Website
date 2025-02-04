@@ -284,11 +284,7 @@ Email: info@stqgroup.com.sa. <span class="Shop now"> &#62;
             
         </li>
 
-</mainmenu>
-        </ul>
-        <!-- mainmenu close -->
 
-    </div>
 
 <!-- header close --></div>
         <!-- ngView:  --><div ng-view="" class="ng-scope"><!-- ngIf: isHome --><div ng-controller="HomeController" ng-if="isHome" class="ng-scope">
