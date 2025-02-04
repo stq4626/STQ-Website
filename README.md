@@ -177,8 +177,8 @@ Email: info@stqgroup.com.sa. <span class="Shop now"> &#62;
 
      
 
-      <span class="icon-home"></span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">  Home             </font></font></a>
-            
+      <span class="icon-home"></span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Home</font></font></a>
+        src="https://www.youtube-nocookie.com/embed/3QArAxmiR6k?si=-dyyi-OujJ-D1p4i"     
                  
 	      
     
@@ -186,7 +186,8 @@ Email: info@stqgroup.com.sa. <span class="Shop now"> &#62;
         </li>
         <li class="">
             <a href="/#welcome">
-              <span class="icon-info"></span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">  About us             </font></font></a>
+              <span class="/http://stqgroup.com.sa"icon-info"></span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">  About us             
+               </font></font></a>
                         <ul class="dropdown-menu">
             
         <li class="">
