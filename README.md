@@ -2,20 +2,6 @@
   <h1>Welcome to Al-Istiqama Group</h1>
   <h1>welcome you to its official website</h1>
 
-footer {
-  background-color: red;
-  color: #fff;
-  padding: 10px;
-  text-align: Left;
-}
-
-
-
-
-
-
-
-
    <p>
     Old Website
   </p>
