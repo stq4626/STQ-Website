@@ -180,13 +180,13 @@ Email: info@stqgroup.com.sa. <span class="Shop now"> &#62;
       <span class="icon-home"></span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Home</font></font></a>
         
     
-            
         </li>
         <li class="">
             <a href="/#welcome">
-              <span class="/http://stqgroup.com.sa"icon-info"></span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">  About us             
-               </font></font></a>
+              <span class="icon-info"></span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">  About us             </font></font></a>
                         <ul class="dropdown-menu">
+                
+        
             
         <li class="">
             <a href="/pages/كلمة-المدير-العام"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
