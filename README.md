@@ -177,6 +177,12 @@ Email: info@stqgroup.com.sa. <span class="Shop now"> &#62;
             <a href="/">
               <span class=<"https://stq4626.github.io/WELCOME/#group-activities-and-servicestheate"></span><font style="vertical-align: inherit;"><font style="vertical- 
               align: inherit;">Home</font></font></a>
+	      
+	      
+<!-- ngView:  --><div ng-view="" class="ng-scope"><!-- ngIf: isHome --><div ng-controller="HomeController" ng-if="isHome" class="ng-scope">
+    <!-- slider -->
+
+    
             
         </li>
         <li class="">
