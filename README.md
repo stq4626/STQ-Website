@@ -4,7 +4,7 @@
     <title>Title of the document</title>
     <style>
       body {
-        background-image: url("https://www.w3docs.com/uploads/media/default/0001/01/477719675fecaac0362957c214fb9aa56fca99b5.jpeg");
+        background-image: url("http://stqgroup.com.sa/uploads/General/stq.png");
         background-repeat: 
       }
     </style>
