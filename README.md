@@ -1,19 +1,18 @@
-<!DOCTYPE html>
-<html>
-  <head>
-    <title>Title of the document</title>
-    <style>
-      body {
-        background-image: url("img-responsive" src="/Uploads/General/actv10.jpg");
-        background-repeat: 
-      }
-    </style>
-  </head>
-  <body>
-  </body>
-</html>
+<p style="background-color:Tomato;"><header>
+  <h1>To Al-Istiqama Group</h1>
+  <h1>welcome you to its official website</h1>
 
-
+   <p>
+    Old Website
+  </p>
+  
+  <button>
+    Hello
+  </button>
+  
+  <a href="http://stqgroup.com.sa/" target="blank">
+    Link to stqgroup.com.sa 
+  </a></p>
 
 <header>
   <h1>To Al-Istiqama Group</h1>
