@@ -1,32 +1,12 @@
-
-  
-  
-    Old Website
-  </p>
-  
   <button>
     Hello
   </button>
-  
-  <a href="http://stqgroup.com.sa/" target="blank">
+  Old Website
+  <h1 style="background-color:DodgerBlue;"><a href="http://stqgroup.com.sa/" target="blank">
     Link to stqgroup.com.sa 
-  </a></p>
-
-<header>
-  <h1>To Al-Istiqama Group</h1>
-  <h1>welcome you to its official website</h1>
-
-   <p>
-    Old Website
-  </p>
+    </a></h1> 
   
-  <button>
-    Hello
-  </button>
   
-  <a href="http://stqgroup.com.sa/" target="blank">
-    Link to stqgroup.com.sa 
-  </a>
 
    <style>
     p {
