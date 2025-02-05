@@ -156,10 +156,9 @@ Qassim - Unaizah - P.O. Box: 1502 - Postal Code: 51911
 Phone: +9660000000
 Fax: +966000000000
 Email: ooooooooooooo <span class="Shop now"> &#62;
-NEW WEBSITE <strong> UNDER </strong> CONTRUCTION <u> New website </u> opening soon. <span class="span-example"> Good day! 
+NEW WEBSITE <strong> UNDER </strong> CONTRUCTION <u> New website </u> opening soon. <span class="span-example">  
 
-</p>   
-     
+
 
     
       
