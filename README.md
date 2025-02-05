@@ -1,7 +1,10 @@
-<p style="background-color:Tomato;"><header>
-  <h1>To Al-Istiqama Group</h1>
-  <h1>welcome you to its official website</h1>
-
+</style>
+  
+  <p class="video-title">
+    Welcome to Al-Istiqama Group
+    welcome you to its Official website,
+    New Website SOON!
+  </p>
    <p>
     Old Website
   </p>
