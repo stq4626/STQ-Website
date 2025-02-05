@@ -1,9 +1,10 @@
-<div class="bg"></div>
-<div class="bg bg2"></div>
-<div class="bg bg3"></div>
-<div class="content">
-  <h1>Sliding Diagonals Background Effect</h1>
-</div>
+<style> 
+body {
+background: url(http://37.media.tumblr.com/tumblr_lusitdffhf1qj5tnlo1_r1_500.gif);
+background-size: 2000px 1000px;
+background-repeat:repeat;
+padding-top: 40px;
+}
 
 
 
