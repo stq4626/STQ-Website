@@ -1008,4 +1008,85 @@ Email: ooooooooooooo <span class="Shop now"> &#62;
   </p>
 </section>
 
+<style>
+    p {
+      font-family: Arial;
+      margin-top: 10;
+      margin-bottom: 20;
+    }
+  
+    .video-stats {
+      font-size: 14px;
+      color: rgb(96, 96, 96);
+      margin-bottom: 20px;
+    }
+  
+    .video-title {
+      font-weight: bold;
+      font-size: 18px;
+      width: 280px;
+      line-height: 24px;
+      margin-bottom: 5px;
+    }
+  
+    .video-author {
+      font-size: 14px;
+      color: rgb(96, 96, 96);
+      margin-bottom: 20px;
+    }
+  
+    .video-description {
+      font-size: 14px;
+      color: rgb(96, 96, 96);
+      width: 280px;
+      line-height: 22px;
+      margin-bottom: 100px;
+    }
+  
+    .apple-text {
+      margin-bottom: 50px;
+      font-size: 14px;
+      background-color: rgb(227, 65, 64);
+      color: white;
+      text-align: center;
+      padding-top: 18px;
+      padding-bottom: 18px;
+    }
+  
+    .span-example {
+      color: red;
+    }
+  
+    .span-example:hover {
+      text-decoration: underline;
+    }
+  
+    .shop-link {
+      cursor: pointer;
+    }
+  
+    .shop-link:hover {
+      text-decoration: underline;
+    }
+  </style>
+  
+  <p class="video-title">
+    
+    New Website SOON!
+  </p>
+  
+  <p class="video-stats">
+    3.4M views &#183; 1 months ago
+  </p>
+  STQ Group.. The Straightforward Group&#10003;
+  
+  <p class="video-author">
+     
+  </p>
+  
+           
+  <p class="video-description">
+    
+  
+
 
