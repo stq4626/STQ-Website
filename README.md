@@ -4,7 +4,7 @@
     <title>Title of the document</title>
     <style>
       body {
-        background-image: url("http://stqgroup.com.sa/uploads/General/stq.png");
+        background-image: url("img-responsive" src="/Uploads/General/actv10.jpg");
         background-repeat: 
       }
     </style>
