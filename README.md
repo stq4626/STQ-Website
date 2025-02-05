@@ -1,10 +1,11 @@
- <style> 
-body {
-background: url(http://37.media.tumblr.com/tumblr_lusitdffhf1qj5tnlo1_r1_500.gif);
-background-size: 320px 600px;
-background-repeat:repeat;
-padding-top: 40px;
-}
+.ripple-background
+  .circle.xxlarge.shade1
+  .circle.xlarge.shade2
+  .circle.large.shade3
+  .circle.mediun.shade4
+  .circle.small.shade5
+
+
 </style>
 
    <h1 style="color:Tomato;">To Al-Istiqama Group
