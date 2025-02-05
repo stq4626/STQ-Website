@@ -1,28 +1,12 @@
-<!DOCTYPE html>
-<html>
-<head>
-<title>Example</title>
-
-<!-- Styles -->	
-<style>
+ <style> 
 body {
-  background-image: url("/pix/samples/bg1.gif");
-  background-position: 50% 50%;
-  background-repeat: repeat;
+background: url(http://37.media.tumblr.com/tumblr_lusitdffhf1qj5tnlo1_r1_500.gif);
+background-size: 320px 600px;
+background-repeat:repeat;
+padding-top: 40px;
 }
 </style>
-</head>
-<body>
 
-<!-- HTML -->
-<h3>Whole Page</h3>
-<p>This example has a background image applied to the <code>body</code> element.</p>
-
-</body>
-</html>
-
-
-   
    <h1 style="color:Tomato;">To Al-Istiqama Group
     welcome you to its Official website</h1>
       
