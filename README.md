@@ -91,7 +91,8 @@ padding-top: 40px;
   <p class="video-stats">
     3.4M views &#183; 1 months ago
   </p>
-  STQ Group.. The Straightforward Group&#10003;
+  <h1 style="color:Tomato;">STQ Group.. The Straightforward Group&#10003;</h1>
+  
   
   <p class="video-author">
      
