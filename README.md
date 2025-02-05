@@ -1,10 +1,13 @@
+   <h1 style="color:Tomato;">To Al-Istiqama Group
+    welcome you to its Official website</h1>
+      
   <button>
     Hello
   </button>
-  Old Website
-  <h1 style="background-color:DodgerBlue;"><a href="http://stqgroup.com.sa/" target="blank">
+  
+  <a href="http://stqgroup.com.sa/" target="blank">
     Link to stqgroup.com.sa 
-    </a></h1> 
+  </a>
   
   
 
