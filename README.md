@@ -156,13 +156,14 @@ Qassim - Unaizah - P.O. Box: 1502 - Postal Code: 51911
 Phone: +9660000000
 Fax: +966000000000
 Email: ooooooooooooo <span class="Shop now"> &#62;
+NEW WEBSITE <strong> UNDER </strong> CONTRUCTION <u> New website </u> opening soon. <span class="span-example"> Good day! 
+
 </p>   
      
 
     
       
-    NEW WEBSITE <strong> UNDER </strong> CONTRUCTION <u> New website </u> opening soon. <span class="span-example"> Good day! 
-
+    
 <div class="col-md-4">
 <h5><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">For your business to succeed, you need experienced people to implement it.. </font></font><br><span class="id-color"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">STQ Group.. The Straightforward Group</font></font></span></h5>
 </div>
