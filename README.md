@@ -1,8 +1,9 @@
-<div class="background-container">
-<img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/1231630/moon2.png" alt="">
-<div class="stars"></div>
-<div class="twinkling"></div>
-<div class="clouds"></div>
+<div class="bg"></div>
+<div class="bg bg2"></div>
+<div class="bg bg3"></div>
+<div class="content">
+  <h1>Sliding Diagonals Background Effect</h1>
+</div>
 
 
 
