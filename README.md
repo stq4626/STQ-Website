@@ -1,11 +1,6 @@
-</style>
+
   
-  <p class="video-title">
-    Welcome to Al-Istiqama Group
-    welcome you to its Official website,
-    New Website SOON!
-  </p>
-   <p>
+  
     Old Website
   </p>
   
