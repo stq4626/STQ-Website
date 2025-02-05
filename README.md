@@ -36,14 +36,14 @@ padding-top: 40px;
     }
   
 
-
-
-
-
-
-
-
-
+.video-title {
+      font-weight: bold;
+      font-size: 18px;
+      width: 280px;
+      line-height: 24px;
+      margin-bottom: 5px;
+    }
+  
 	
     .video-author {
       font-size: 14px;
