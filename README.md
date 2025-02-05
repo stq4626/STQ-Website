@@ -5,7 +5,7 @@
     <style>
       body {
         background-image: url("https://www.w3docs.com/uploads/media/default/0001/01/477719675fecaac0362957c214fb9aa56fca99b5.jpeg");
-        background-repeat: repeat-y;
+        background-repeat: 
       }
     </style>
   </head>
