@@ -1,3 +1,20 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Title of the document</title>
+    <style>
+      body {
+        background-image: url("https://www.w3docs.com/uploads/media/default/0001/01/477719675fecaac0362957c214fb9aa56fca99b5.jpeg");
+        background-repeat: repeat-y;
+      }
+    </style>
+  </head>
+  <body>
+  </body>
+</html>
+
+
+
 <header>
   <h1>To Al-Istiqama Group</h1>
   <h1>welcome you to its official website</h1>
