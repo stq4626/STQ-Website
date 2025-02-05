@@ -146,7 +146,7 @@ Kingdom of Saudi Arabia
 Qassim - Unaizah - P.O. Box: 1502 - Postal Code: 51911
 Phone: +9660000000
 Fax: +966000000000
-Email: info@stqgroup.com.sa. <span class="Shop now"> &#62;
+Email: ooooooooooooo <span class="Shop now"> &#62;
 </p>   
       
     NEW WEBSITE <strong> UNDER </strong> CONTRUCTION <u> New website </u> opening soon. <span class="span-example"> Good day! 
@@ -756,7 +756,7 @@ Email: info@stqgroup.com.sa. <span class="Shop now"> &#62;
         <img src="/images/logo-small.png" alt="logo"><br><br>
         نشأت المجموعة منذ أكثر من 30 عاماً كمنشأة إعلامية تمتلك استديوهات وبلاتوهات تصوير حيث تعتبر المجموعة من رواد الصناعة الإعلامية في المملكة العربية السعودية حيث تمتلك استوديوهات رقمية وفريق عمل متخصص .
         <br />
-        وحديثا توسعت المجموعة وأنشأت عدة أقسام تخدم النشاط الأساسي لها لتكتمل المنظومة الإعلامية والتقنية .. <a href="http://stqgroup.com.sa/">المزيد</a>
+        وحديثا توسعت المجموعة وأنشأت عدة أقسام تخدم النشاط الأساسي لها لتكتم"ooooooooooooooooooooooo">المزيد</a>
     </div>
 
     <div class="col-md-6">
@@ -780,7 +780,7 @@ Email: info@stqgroup.com.sa. <span class="Shop now"> &#62;
                         </font></font></span>
                         <span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Phone: +9660000000</font></font></span>
                         <span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Fax: +966000000000</font></font></span>
-                        <span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Email: </font></font><a href="mailto:info@stqgroup.com.sa"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">info@stqgroup.com.sa</font></font></a></span>
+                        <span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Email: </font></font><a href="mailto:ooooooooooooo"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">ooooooooooooooo</font></font></a></span>
                     </address>
                 </div>
             </div>
