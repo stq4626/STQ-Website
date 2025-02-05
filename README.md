@@ -13,7 +13,8 @@ padding-top: 40px;
   <button>
     Hello
   </button>
-  Old Website  
+  <h1 style="color:Tomato;">Old Website</h1>
+  
   <a href="http://stqgroup.com.sa/" target="blank">
     Link to stqgroup.com.sa 
   </a>
