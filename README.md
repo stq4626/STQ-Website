@@ -147,9 +147,8 @@ padding-top: 40px;
        cameras, closed 
     circuit television (CCTV), security and 
     safety devices and the security system.!
-      </p>
 
-    All rights reserved - Al-Istiqama for Theater and Hall Equipment. 
+   All rights reserved - Al-Istiqama for Theater and Hall Equipment. 
 To contact us:Al-Istiqama Group for Theater and Hall Equipment
 
 Kingdom of Saudi Arabia
@@ -158,6 +157,9 @@ Phone: +9660000000
 Fax: +966000000000
 Email: ooooooooooooo <span class="Shop now"> &#62;
 </p>   
+     
+
+    
       
     NEW WEBSITE <strong> UNDER </strong> CONTRUCTION <u> New website </u> opening soon. <span class="span-example"> Good day! 
 
