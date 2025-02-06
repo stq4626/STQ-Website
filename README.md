@@ -785,7 +785,7 @@ NEW WEBSITE <strong> UNDER </strong> CONTRUCTION <u> New website </u> opening so
 #myHeader {
   background-color: tomato;
   color: black;
-  padding: 40px;
+  padding: 20px;
   text-align: left;
 }
 </style>
