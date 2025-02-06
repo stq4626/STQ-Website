@@ -109,11 +109,10 @@ padding-top: 40px;
   background-color: tomato;
   color: white;
   padding: 10px;
-  text-align: Right;
+  text-align: left;
 }
   
   </style>
-  <h2 class="city"><p class="White-text">	
     We are the Esteqama Group for 
     implementing, supplying
     and installing all systems for 
