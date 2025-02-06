@@ -777,9 +777,22 @@ NEW WEBSITE <strong> UNDER </strong> CONTRUCTION <u> New website </u> opening so
     </div>-->
 
 
-     
-        </div>
-        <div class="row">
+
+    <!DOCTYPE html>
+<html>
+<head>
+<style>
+#myHeader {
+  background-color: lightblue;
+  color: black;
+  padding: 40px;
+  text-align: left;
+}
+</style>
+</head>
+<body>
+
+<h1 id="myHeader"> <div class="row">
             <div class="col-md-12">
                 <h3><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">To contact us:</font></font></h3>
                 <div class="widget widget-address">
@@ -816,7 +829,27 @@ NEW WEBSITE <strong> UNDER </strong> CONTRUCTION <u> New website </u> opening so
                             <li><a href="/9"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Our projects</font></font></a></li>
                             <li><a href="/10/4"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Our news</font></font></a></li>
                             <li><a href="/pages/اتصل-بنا"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Contact us</font></font></a></li>
-                        </ul>
+       </h1>
+
+</body>
+</html>
+
+
+
+     
+        </div>
+       
+			
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   </ul>
                     </nav>
                 </div>
             </div>
