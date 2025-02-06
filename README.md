@@ -88,7 +88,7 @@ padding-top: 40px;
   
   <p class="video-title">
   
-    <h1 style="color:Tomato;">New Website SOON!</h1>
+    <h1 style="color:Tomato;">TO New Website SOON!</h1>
     
   </p>
   
