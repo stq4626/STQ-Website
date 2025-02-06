@@ -861,7 +861,7 @@ NEW WEBSITE <strong> UNDER </strong> CONTRUCTION <u> New website </u> opening so
 }
  .wfloat span {
     background-color: #25d366;
-    display: inline-block;
+    display: inline-white;
     padding: 5px;
     font-size: 14px !important;
     position: absolute;
