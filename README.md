@@ -809,10 +809,8 @@ NEW WEBSITE <strong> UNDER </strong> CONTRUCTION <u> New website </u> opening so
                         <span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Fax: +966000000000</font></font></span>
                         <span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Email: </font></font><a href="mailto:ooooooooooooo"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">ooooooooooooooo</font></font></a></span>
                     </address>
-                </div>
-            </div>
-        </div>
-    </div>
+                
+            
 
     <div class="subfooter">
         <div class="container">
@@ -829,15 +827,11 @@ NEW WEBSITE <strong> UNDER </strong> CONTRUCTION <u> New website </u> opening so
                             <li><a href="/9"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Our projects</font></font></a></li>
                             <li><a href="/10/4"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Our news</font></font></a></li>
                             <li><a href="/pages/اتصل-بنا"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Contact us</font></font></a></li>
-       </h1>
-
-</body>
-</html>
+      
 
 
 
      
-        </div>
        
 			
    
@@ -849,16 +843,7 @@ NEW WEBSITE <strong> UNDER </strong> CONTRUCTION <u> New website </u> opening so
    
    
    
-   </ul>
-                    </nav>
-                </div>
-            </div>
-        </div>
-    </div>
-
-</footer>
-<!-- footer close --></div>
-    </div>
+   
 
 
 
