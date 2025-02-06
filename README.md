@@ -6,8 +6,6 @@ background-repeat:repeat;
 padding-top: 40px;
 }
 
-
-
    <h1 style="color:Tomato;">To Al-Istiqama Group
     welcome you to its Official website</h1>
       
@@ -19,7 +17,7 @@ padding-top: 40px;
   <a href="http://stqgroup.com.sa/" target="blank">
     Link to stqgroup.com.sa 
   </a>
-  
+	 
   
 
    <style>
@@ -115,7 +113,6 @@ padding-top: 40px;
 }
   
   </style>
-<h2 class="city"><p class="apple-text">	  
     We are the Esteqama Group for 
     implementing, supplying
     and installing all systems for 
