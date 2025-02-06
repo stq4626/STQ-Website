@@ -17,7 +17,21 @@ padding-top: 40px;
   <a href="http://stqgroup.com.sa/" target="blank">
     Link to stqgroup.com.sa 
   </a>
-	 
+
+	<!DOCTYPE html>
+<html>
+<body>
+
+<h2>This website</h2>
+
+<p>Under Construction:</p>
+
+<img src="programming.gif" alt="Computer man" style="width:48px;height:48px;">
+
+</body>
+</html>
+
+
   
 
    <style>
