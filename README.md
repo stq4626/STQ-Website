@@ -791,16 +791,7 @@ NEW WEBSITE <strong> UNDER </strong> CONTRUCTION <u> New website </u> opening so
 
 
 
-    <!DOCTYPE html>
-<html>
-<head>
-<style>
-#myHeader {
-  background-color: tomato;
-  color: black;
-  padding: 20px;
-  text-align: left;
-}
+    
 </style>
 </head>
 <body>
