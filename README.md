@@ -861,7 +861,7 @@ NEW WEBSITE <strong> UNDER </strong> CONTRUCTION <u> New website </u> opening so
 }
  .wfloat span {
     background-color: #25d366;
-    display: inline-white;
+    display: inline-block;
     padding: 5px;
     font-size: 14px !important;
     position: absolute;
@@ -881,7 +881,7 @@ NEW WEBSITE <strong> UNDER </strong> CONTRUCTION <u> New website </u> opening so
 	8A%D8%B2%D8%A7%D8%AA%20%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%B1%D8%AD%20%D9%88%D8%A7%D9%84%D9%82%D8%A7%D8%B9%D8%A7%D8%A
 " class="wfloat" target="_blank">
 <i class="fa fa-whatsapp my-wfloat"></i> <span><font style="vertical-align: inherit;">
-<font style="vertical-align: inherit;">Contact us</font></font></span>
+<font style="vertical-align: inherit;"><p style="color:red;">Contact us</font.</p</font></span>
 
 </a>
     
