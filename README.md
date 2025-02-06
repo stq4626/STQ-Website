@@ -105,17 +105,13 @@ padding-top: 40px;
            
   <p class="video-description">
 
-background-color: lightblue;
-  color: black;
-  padding: 40px;
-  text-align: center;
-
 <style>  
   /* Style all elements with the class name "city" */
 .city {    
   background-color: tomato;
   color: white;
-  padding: 10px;
+  padding: 5px;
+  text-align: left;
 }
   
   </style>
