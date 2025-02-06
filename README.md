@@ -108,8 +108,8 @@ padding-top: 40px;
 .city {    
   background-color: tomato;
   color: white;
-  padding: 5px;
-  text-align: left;
+  padding: 10px;
+  text-align: Right;
 }
   
   </style>
