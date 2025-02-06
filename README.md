@@ -6,18 +6,7 @@ background-repeat:repeat;
 padding-top: 40px;
 }
 
-   <h1 style="color:Tomato;">To Al-Istiqama Group
-    welcome you to its Official website</h1>
-      
-  <button>
-    Hello
-  </button>
-  <h1 style="color:Tomato;">Old Website</h1>
-  
-  <a href="http://stqgroup.com.sa/" target="blank">
-    Link to stqgroup.com.sa 
-  </a>
-
+   
 	<!DOCTYPE html>
 <html>
 <body>
