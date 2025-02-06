@@ -105,12 +105,14 @@ padding-top: 40px;
            
   <p class="video-description">
 
-
+background-color: lightblue;
+  color: black;
+  padding: 40px;
+  text-align: center;
 
 <style>  
   /* Style all elements with the class name "city" */
-.city {  
-  
+.city {    
   background-color: tomato;
   color: white;
   padding: 10px;
@@ -169,7 +171,7 @@ Qassim - Unaizah - P.O. Box: 1502 - Postal Code: 51911
 Phone: +9660000000
 Fax: +966000000000
 Email: ooooooooooooo <span class="Shop now"> &#62;
-NEW WEBSITE <strong> UNDER </strong> CONTRUCTION <u> New website </u> opening soon. <span class="span-example"></h2>
+NEW WEBSITE <strong> UNDER </strong> CONTRUCTION <u> New website </u> opening soon. <span class="span-example">
 
 
 
