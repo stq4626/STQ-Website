@@ -113,6 +113,7 @@ padding-top: 40px;
 }
   
   </style>
+  <h2 class="city"><p class=" tomato-text">	
     We are the Esteqama Group for 
     implementing, supplying
     and installing all systems for 
